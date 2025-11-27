@@ -1,0 +1,315 @@
+Removed Member From Class: ClassName=05_POWER_1 Member=C15
+Removed Member From Class: ClassName=05_POWER_1 Member=C16
+Removed Member From Class: ClassName=07_USB Member=C38
+Removed Member From Class: ClassName=POWER_3 Member=C154
+Removed Member From Class: ClassName=POWER_3 Member=C155
+Add Component: Footprint Not Found AP6-00118
+Added Component: Designator=U10(QFN40P400X400X80-29N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX14662ETI+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFN-28 Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX14662ETI%2BT/Maxim%20Integrated/view-part/546683/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOIC_PRQ1_TEX
+Add Component: Footprint Not Found SOIC8_150MIL_N_ISI
+Add Component: Footprint Not Found AP7-00044
+Add Component: Footprint Not Found AP7-00039
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-8
+Add Pin To Net: Unknown Pin: Pin J23-1
+Add Pin To Net: Unknown Pin: Pin J23-2
+Add Pin To Net: Unknown Pin: Pin J23-3
+Add Pin To Net: Unknown Pin: Pin J23-4
+Add Pin To Net: Unknown Pin: Pin J23-5
+Add Pin To Net: Unknown Pin: Pin J23-6
+Add Pin To Net: Unknown Pin: Pin J23-7
+Add Pin To Net: Unknown Pin: Pin J23-8
+Add Pin To Net: Unknown Pin: Pin J23-9
+Add Pin To Net: Unknown Pin: Pin J23-10
+Add Pin To Net: Unknown Pin: Pin J23-11
+Add Pin To Net: Unknown Pin: Pin J23-M1
+Add Pin To Net: Unknown Pin: Pin J23-M2
+Add Pin To Net: Unknown Pin: Pin J24-2
+Add Pin To Net: Unknown Pin: Pin J24-3
+Add Pin To Net: Unknown Pin: Pin J24-4
+Add Pin To Net: Unknown Pin: Pin J24-5
+Add Pin To Net: Unknown Pin: Pin J24-6
+Add Pin To Net: Unknown Pin: Pin J24-7
+Add Pin To Net: Unknown Pin: Pin J24-8
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-12
+Add Pin To Net: Unknown Pin: Pin U3-13
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-15
+Add Pin To Net: Unknown Pin: Pin U3-16
+Add Pin To Net: Unknown Pin: Pin U3-17
+Add Pin To Net: Unknown Pin: Pin U3-18
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-24
+Add Pin To Net: Unknown Pin: Pin U3-26
+Add Pin To Net: Unknown Pin: Pin U3-27
+Add Pin To Net: Unknown Pin: Pin U3-28
+Add Pin To Net: Unknown Pin: Pin U3-29
+Add Pin To Net: Unknown Pin: Pin U3-30
+Add Pin To Net: Unknown Pin: Pin U3-31
+Add Pin To Net: Unknown Pin: Pin U3-32
+Add Pin To Net: Unknown Pin: Pin U3-33
+Add Pin To Net: Unknown Pin: Pin U3-35
+Add Pin To Net: Unknown Pin: Pin U3-36
+Add Pin To Net: Unknown Pin: Pin U3-38
+Add Pin To Net: Unknown Pin: Pin U3-39
+Add Pin To Net: Unknown Pin: Pin U3-40
+Add Pin To Net: Unknown Pin: Pin U3-41
+Add Pin To Net: Unknown Pin: Pin U3-43
+Add Pin To Net: Unknown Pin: Pin U3-44
+Add Pin To Net: Unknown Pin: Pin U3-47
+Add Pin To Net: Unknown Pin: Pin U3-48
+Add Pin To Net: Unknown Pin: Pin U3-50
+Add Pin To Net: Unknown Pin: Pin U3-54
+Add Pin To Net: Unknown Pin: Pin U3-58
+Add Pin To Net: Unknown Pin: Pin U3-61
+Add Pin To Net: Unknown Pin: Pin U3-72
+Add Pin To Net: Unknown Pin: Pin U3-73
+Add Pin To Net: Unknown Pin: Pin U3-75
+Add Pin To Net: Unknown Pin: Pin U3-76
+Add Pin To Net: Unknown Pin: Pin U3-77
+Add Pin To Net: Unknown Pin: Pin U3-79
+Add Pin To Net: Unknown Pin: Pin U3-80
+Add Pin To Net: Unknown Pin: Pin U3-81
+Add Pin To Net: Unknown Pin: Pin U3-82
+Add Pin To Net: Unknown Pin: Pin U3-83
+Add Pin To Net: Unknown Pin: Pin U3-85
+Add Pin To Net: Unknown Pin: Pin U3-86
+Add Pin To Net: Unknown Pin: Pin U3-89
+Add Pin To Net: Unknown Pin: Pin U3-91
+Add Pin To Net: Unknown Pin: Pin U3-93
+Add Pin To Net: Unknown Pin: Pin U3-95
+Add Pin To Net: Unknown Pin: Pin U3-96
+Add Pin To Net: Unknown Pin: Pin U3-98
+Add Pin To Net: Unknown Pin: Pin U3-99
+Add Pin To Net: Unknown Pin: Pin U3-101
+Add Pin To Net: Unknown Pin: Pin U3-102
+Add Pin To Net: Unknown Pin: Pin U3-103
+Add Pin To Net: Unknown Pin: Pin U3-104
+Add Pin To Net: Unknown Pin: Pin U3-105
+Add Pin To Net: Unknown Pin: Pin U3-107
+Add Pin To Net: Unknown Pin: Pin U3-109
+Add Pin To Net: Unknown Pin: Pin U3-110
+Add Pin To Net: Unknown Pin: Pin U3-113
+Add Pin To Net: Unknown Pin: Pin U3-114
+Add Pin To Net: Unknown Pin: Pin U3-115
+Add Pin To Net: Unknown Pin: Pin U3-118
+Add Pin To Net: Unknown Pin: Pin U3-119
+Add Pin To Net: Unknown Pin: Pin U3-121
+Add Pin To Net: Unknown Pin: Pin U3-122
+Add Pin To Net: Unknown Pin: Pin U3-123
+Add Pin To Net: Unknown Pin: Pin U3-124
+Add Pin To Net: Unknown Pin: Pin U3-125
+Add Pin To Net: Unknown Pin: Pin U3-126
+Add Pin To Net: Unknown Pin: Pin U3-127
+Add Pin To Net: Unknown Pin: Pin U3-128
+Add Pin To Net: Unknown Pin: Pin U3-130
+Add Pin To Net: Unknown Pin: Pin U3-131
+Add Pin To Net: Unknown Pin: Pin U3-132
+Add Pin To Net: Unknown Pin: Pin U3-133
+Add Pin To Net: Unknown Pin: Pin U3-134
+Add Pin To Net: Unknown Pin: Pin U3-135
+Add Pin To Net: Unknown Pin: Pin U3-136
+Add Pin To Net: Unknown Pin: Pin U3-137
+Add Pin To Net: Unknown Pin: Pin U3-138
+Add Pin To Net: Unknown Pin: Pin U3-139
+Add Pin To Net: Unknown Pin: Pin U3-140
+Add Pin To Net: Unknown Pin: Pin U3-141
+Add Pin To Net: Unknown Pin: Pin U3-142
+Add Pin To Net: Unknown Pin: Pin U3-143
+Added Pin To Net: NetName=NetR124_2 Pin=U10-1
+Added Pin To Net: NetName=TEC_ADC_1 Pin=U10-2
+Added Pin To Net: NetName=TEC_ADC_2 Pin=U10-3
+Added Pin To Net: NetName=TEC_ADC_3 Pin=U10-4
+Added Pin To Net: NetName=TEC_ADC_4 Pin=U10-5
+Added Pin To Net: NetName=eFUSE_ILIM_5V_TEC Pin=U10-6
+Added Pin To Net: NetName=eFUSE_ILIM_5V_HD4 Pin=U10-7
+Added Pin To Net: NetName=NetR125_2 Pin=U10-8
+Added Pin To Net: NetName=NetR126_2 Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-11
+Added Pin To Net: NetName=PB03 Pin=U10-14
+Added Pin To Net: NetName=PB03 Pin=U10-15
+Added Pin To Net: NetName=PB03 Pin=U10-16
+Added Pin To Net: NetName=PB03 Pin=U10-17
+Added Pin To Net: NetName=PB03 Pin=U10-18
+Added Pin To Net: NetName=PB03 Pin=U10-19
+Added Pin To Net: NetName=PB03 Pin=U10-20
+Added Pin To Net: NetName=PB03 Pin=U10-21
+Added Pin To Net: NetName=NetR123_2 Pin=U10-22
+Added Pin To Net: NetName=NetR121_2 Pin=U10-23
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=U10-24
+Added Pin To Net: NetName=GND Pin=U10-25
+Added Pin To Net: NetName=3.3V_MCU Pin=U10-26
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=U10-27
+Added Pin To Net: NetName=NetR122_2 Pin=U10-28
+Added Pin To Net: NetName=GND Pin=U10-29
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Add Pin To Net: Unknown Pin: Pin U32-1
+Add Pin To Net: Unknown Pin: Pin U32-2
+Add Pin To Net: Unknown Pin: Pin U32-3
+Add Pin To Net: Unknown Pin: Pin U32-4
+Add Pin To Net: Unknown Pin: Pin U32-5
+Add Pin To Net: Unknown Pin: Pin U32-6
+Add Pin To Net: Unknown Pin: Pin U32-7
+Add Pin To Net: Unknown Pin: Pin U32-8
+Add Pin To Net: Unknown Pin: Pin U32-9
+Add Pin To Net: Unknown Pin: Pin U32-10
+Add Pin To Net: Unknown Pin: Pin U32-11
+Add Pin To Net: Unknown Pin: Pin U32-12
+Add Pin To Net: Unknown Pin: Pin U32-13
+Add Pin To Net: Unknown Pin: Pin U32-14
+Add Pin To Net: Unknown Pin: Pin U32-16
+Add Pin To Net: Unknown Pin: Pin U33-1
+Add Pin To Net: Unknown Pin: Pin U33-2
+Add Pin To Net: Unknown Pin: Pin U33-3
+Add Pin To Net: Unknown Pin: Pin U33-4
+Add Pin To Net: Unknown Pin: Pin U33-5
+Add Pin To Net: Unknown Pin: Pin U33-6
+Add Pin To Net: Unknown Pin: Pin U33-7
+Add Pin To Net: Unknown Pin: Pin U33-8
+Add Pin To Net: Unknown Pin: Pin XC1-1
+Add Pin To Net: Unknown Pin: Pin XC1-2
+Add Pin To Net: Unknown Pin: Pin XC1-3
+Add Pin To Net: Unknown Pin: Pin XC2-1
+Add Pin To Net: Unknown Pin: Pin XC2-2
+Add Pin To Net: Unknown Pin: Pin XC2-3
+Add Pin To Net: Unknown Pin: Pin XC2-4
+Add Net: Net with name "PA10" already exists
+Add Net: Net with name "PA11" already exists
+Add Net: Net with name "PA12" already exists
+Add Net: Net with name "PA13" already exists
+Add Net: Net with name "PA14" already exists
+Add Net: Net with name "PA15" already exists
+Add Net: Net with name "PA16" already exists
+Add Net: Net with name "PA17" already exists
+Add Net: Net with name "PA18" already exists
+Add Net: Net with name "PA21" already exists
+Add Net: Net with name "PA22" already exists
+Add Net: Net with name "PA23" already exists
+Add Net: Net with name "PA24" already exists
+Add Net: Net with name "PA25" already exists
+Add Net: Net with name "PA26" already exists
+Add Net: Net with name "PA27" already exists
+Add Net: Net with name "PA28" already exists
+Add Net: Net with name "PA29" already exists
+Add Net: Net with name "PA30" already exists
+Add Net: Net with name "PA31" already exists
+Add Net: Net with name "PB12" already exists
+Add Net: Net with name "PB13" already exists
+Add Net: Net with name "PC10" already exists
+Add Net: Net with name "PC11" already exists
+Add Net: Net with name "PC14" already exists
+Add Net: Net with name "PC16" already exists
+Add Net: Net with name "PC17" already exists
+Add Net: Net with name "PC18" already exists
+Add Net: Net with name "PC19" already exists
+Add Net: Net with name "PC20" already exists
+Add Net: Net with name "PD12" already exists
+Add Net: Net with name "PD13" already exists
+Add Net: Net with name "PD14" already exists
+Add Net: Net with name "PD15" already exists
+Add Net: Net with name "PD16" already exists
+Add Net: Net with name "PD17" already exists
+Add Net: Net with name "PD18" already exists
+Add Net: Net with name "PD19" already exists
+Add Net: Net with name "PD20" already exists
+Add Net: Net with name "PD21" already exists
+Add Net: Net with name "PD22" already exists
+Add Net: Net with name "PD23" already exists
+Add Net: Net with name "PD24" already exists
+Add Net: Net with name "PD25" already exists
+Add Net: Net with name "PD26" already exists
+Add Net: Net with name "PD27" already exists
+Add Net: Net with name "PD28" already exists
+Add Net: Net with name "PD29" already exists
+Add Net: Net with name "PD30" already exists
+Add Net: Net with name "PD31" already exists
+Added Member To Class: ClassName=05_POWER_1 Member=Component C10 10uF/20V
+Added Member To Class: ClassName=05_POWER_1 Member=Component C12 47uF/25V
+Added Member To Class: ClassName=05_POWER_1 Member=Component C13 1uF/20V
+Added Member To Class: ClassName=08_MCU Member=Component C39 0.1uF/10V
+Added Member To Class: ClassName=07_USB Member=Component C40 0.1uF/10V
+Added Member To Class: ClassName=10_NTC_TEMPSENSOR Member=Component C104 0.1uF/10V
+Added Member To Class: ClassName=05_POWER_2 Member=Component C144 1uF/20V
+Added Member To Class: ClassName=05_POWER_2 Member=Component C146 2.2nF/10V
+Added Member To Class: ClassName=05_POWER_2 Member=Component C148 47uF/25V
+Added Member To Class: ClassName=POWER_3 Member=Component C156 0.01uF/16V
+Added Member To Class: ClassName=POWER_3 Member=Component C157 47uF/25V
+Added Member To Class: ClassName=POWER_3 Member=Component C161 47uF/25V
+Added Member To Class: ClassName=POWER_3 Member=Component C162 47uF/25V
+Added Member To Class: ClassName=POWER_3 Member=Component C165 2.2nF/10V
+Added Member To Class: ClassName=MOUTING Member=Component H3 M3
+Added Member To Class: ClassName=MOUTING Member=Component H5 M3
+Add Class Member: Failed to add class member : Component J3 HEADER 8x1
+Add Class Member: Failed to add class member : Component J23 0533981171
+Add Class Member: Failed to add class member : Component J24 HEADER 8x1
+Added Member To Class: ClassName=05_POWER_2 Member=Component R233 10k
+Add Class Member: Failed to add class member : Component U3 Revision B
+Added Member To Class: ClassName=12_TEC Member=Component U10 IC_SW_MAX14662ETI+T
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U32 SN3257QPWRQ1
+Add Class Member: Failed to add class member : Component U33 IS66WVS8M8FBLL-104NLI
+Add Class Member: Failed to add class member : Component XC1 Farnell order no:1539364
+Add Class Member: Failed to add class member : Component XC2
