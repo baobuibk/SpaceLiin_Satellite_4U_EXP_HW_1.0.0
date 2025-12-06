@@ -1,0 +1,347 @@
+Removed Member From Class: ClassName=08_SOM Member=C153
+Removed Member From Class: ClassName=06_POWER_3 Member=C172
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=C172
+Removed Member From Class: ClassName=06_POWER_3 Member=C185
+Removed Member From Class: ClassName=06_POWER_4 Member=C185
+Removed Member From Class: ClassName=06_POWER_4 Member=C186
+Removed Member From Class: ClassName=11_MCU Member=R112
+Removed Member From Class: ClassName=11_MCU Member=R114
+Removed Member From Class: ClassName=11_MCU Member=R116
+Removed Member From Class: ClassName=11_MCU Member=R118
+Removed Member From Class: ClassName=11_MCU Member=R120
+Removed Member From Class: ClassName=11_MCU Member=R122
+Removed Member From Class: ClassName=10_USB Member=R124
+Removed Member From Class: ClassName=11_MCU Member=R124
+Removed Member From Class: ClassName=10_USB Member=R126
+Removed Member From Class: ClassName=10_USB Member=R128
+Removed Member From Class: ClassName=10_USB Member=R130
+Removed Member From Class: ClassName=16_TEC Member=R157
+Removed Member From Class: ClassName=16_TEC Member=R158
+Removed Member From Class: ClassName=16_TEC Member=R160
+Removed Member From Class: ClassName=16_TEC Member=R161
+Removed Member From Class: ClassName=15_HEATER Member=R169
+Removed Member From Class: ClassName=16_TEC Member=R169
+Removed Member From Class: ClassName=15_HEATER Member=R170
+Removed Member From Class: ClassName=16_TEC Member=R170
+Removed Member From Class: ClassName=15_HEATER Member=R171
+Removed Member From Class: ClassName=15_HEATER Member=R179
+Removed Member From Class: ClassName=15_HEATER Member=R181
+Removed Member From Class: ClassName=15_HEATER Member=R187
+Removed Member From Class: ClassName=14_NTC_TEMPSENSOR Member=R193
+Removed Member From Class: ClassName=14_NTC_TEMPSENSOR Member=R195
+Removed Member From Class: ClassName=14_NTC_TEMPSENSOR Member=R197
+Removed Member From Class: ClassName=14_NTC_TEMPSENSOR Member=R199
+Removed Member From Class: ClassName=18_HD4_PUMP Member=R205
+Removed Member From Class: ClassName=18_HD4_PUMP Member=R207
+Removed Member From Class: ClassName=18_HD4_PUMP Member=R209
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R227
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R229
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R231
+Removed Member From Class: ClassName=08_SOM_USB_CARD Member=R233
+Removed Member From Class: ClassName=08_SOM_USB_CARD Member=R235
+Removed Member From Class: ClassName=08_SOM_USB_CARD Member=R237
+Removed Member From Class: ClassName=08_SOM_USB_CARD Member=R239
+Removed Member From Class: ClassName=09_eMMC Member=R245
+Removed Member From Class: ClassName=09_eMMC Member=R247
+Removed Member From Class: ClassName=12_CONSOLE Member=R251
+Removed Member From Class: ClassName=06_POWER_2 Member=R259
+Removed Member From Class: ClassName=06_POWER_2 Member=R261
+Removed Member From Class: ClassName=06_POWER_2 Member=R263
+Removed Member From Class: ClassName=09_eMMC Member=R263
+Removed Member From Class: ClassName=06_POWER_2 Member=R267
+Removed Member From Class: ClassName=19_SOLEDNOID Member=R271
+Removed Member From Class: ClassName=19_SOLEDNOID Member=R273
+Removed Member From Class: ClassName=19_SOLEDNOID Member=R282
+Removed Member From Class: ClassName=08_SOM Member=R397
+Removed Member From Class: ClassName=08_SOM Member=R399
+Removed Member From Class: ClassName=08_SOM Member=R404
+Removed Member From Class: ClassName=08_SOM Member=R405
+Removed Member From Class: ClassName=08_SOM Member=R415
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R415
+Removed Member From Class: ClassName=08_SOM Member=R427
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R427
+Removed Member From Class: ClassName=06_POWER_3 Member=R428
+Removed Member From Class: ClassName=08_SOM Member=R428
+Removed Member From Class: ClassName=06_POWER_3 Member=R431
+Removed Member From Class: ClassName=06_POWER_3 Member=R432
+Removed Member From Class: ClassName=08_SOM Member=R432
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R432
+Removed Member From Class: ClassName=06_POWER_3 Member=R433
+Removed Member From Class: ClassName=08_SOM Member=R433
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R433
+Removed Member From Class: ClassName=06_POWER_3 Member=R434
+Removed Member From Class: ClassName=08_SOM Member=R434
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R434
+Removed Member From Class: ClassName=06_POWER_3 Member=R435
+Removed Member From Class: ClassName=08_SOM Member=R435
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R435
+Removed Member From Class: ClassName=06_POWER_3 Member=R438
+Removed Member From Class: ClassName=08_SOM Member=R438
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R438
+Removed Member From Class: ClassName=08_SOM Member=R439
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R439
+Removed Member From Class: ClassName=08_SOM Member=R440
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R440
+Removed Member From Class: ClassName=06_POWER_4 Member=R443
+Removed Member From Class: ClassName=06_POWER_3 Member=R451
+Removed Member From Class: ClassName=06_POWER_4 Member=R451
+Removed Member From Class: ClassName=08_SOM Member=R451
+Removed Member From Class: ClassName=13_MRAM_RTC_WDT Member=R451
+Added Component: Designator=J1(MOLEX_5040500991)
+Added Pin To Net: NetName=IF_12V Pin=J1-1
+Added Pin To Net: NetName=IF_12V Pin=J1-2
+Added Pin To Net: NetName=IF_12V Pin=J1-3
+Added Pin To Net: NetName=IF_GND Pin=J1-4
+Added Pin To Net: NetName=IF_GND Pin=J1-5
+Added Pin To Net: NetName=IF_GND Pin=J1-6
+Added Pin To Net: NetName=IF_MCU_SHUTDOWN Pin=J1-7
+Added Pin To Net: NetName=OBC_CANH Pin=J1-8
+Added Pin To Net: NetName=OBC_CANL Pin=J1-9
+Added Pin To Net: NetName=EXP_GND Pin=J1-M1
+Added Pin To Net: NetName=EXP_GND Pin=J1-M2
+Add Pin To Net: Unknown Pin: Pin J24-1
+Add Pin To Net: Unknown Pin: Pin J24-2
+Add Pin To Net: Unknown Pin: Pin J24-3
+Add Pin To Net: Unknown Pin: Pin J24-4
+Add Pin To Net: Unknown Pin: Pin J24-5
+Add Pin To Net: Unknown Pin: Pin J24-6
+Add Pin To Net: Unknown Pin: Pin J24-7
+Add Pin To Net: Unknown Pin: Pin J24-8
+Add Pin To Net: Unknown Pin: Pin J24-9
+Add Pin To Net: Unknown Pin: Pin J24-10
+Add Pin To Net: Unknown Pin: Pin J24-11
+Add Pin To Net: Unknown Pin: Pin J24-M1
+Add Pin To Net: Unknown Pin: Pin J24-M2
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Added Member To Class: ClassName=08_SOM Member=Component C152 0.1uF/10V
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component C154 0.1uF/10V
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component C155 0.1uF/10V
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component C156 0.1uF/10V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C158 0.01uF/16V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C159 47uF/25V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C160 1uF/20V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C161 1uF/20V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C162 47uF/25V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C163 47uF/25V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C164 47uF/25V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C165 1uF/20V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C166 2.2nF/10V
+Added Member To Class: ClassName=06_POWER_3 Member=Component C167 2.2nF/10V
+Added Member To Class: ClassName=06_POWER_4 Member=Component C168 47uF/25V
+Added Member To Class: ClassName=06_POWER_4 Member=Component C169 47uF/25V
+Added Member To Class: ClassName=06_POWER_4 Member=Component C170 1uF/20V
+Added Member To Class: ClassName=06_POWER_4 Member=Component C171 2.2nF/10V
+Added Member To Class: ClassName=06_POWER_4 Member=Component C173 47uF/25V
+Added Member To Class: ClassName=06_POWER_4 Member=Component C174 47uF/25V
+Added Member To Class: ClassName=06_POWER_4 Member=Component C175 1uF/20V
+Added Member To Class: ClassName=06_POWER_4 Member=Component C176 2.2nF/10V
+Added Member To Class: ClassName=06_POWER_4 Member=Component C177 2.2nF/10V
+Added Member To Class: ClassName=07_CAN Member=Component C178 0.1uF/16V
+Added Member To Class: ClassName=07_CAN Member=Component C179 1uF/25V
+Added Member To Class: ClassName=07_CAN Member=Component C180 4.7nF/16V
+Added Member To Class: ClassName=07_CAN Member=Component C181 0.1uF/16V
+Added Member To Class: ClassName=07_CAN Member=Component C182 1uF/25V
+Added Member To Class: ClassName=07_CAN Member=Component C183 4.7nF/16V
+Added Member To Class: ClassName=07_CAN Member=Component C184 0.1uF/16V
+Added Member To Class: ClassName=05_CONNECTOR_IN Member=Component J1 5040500991
+Add Class Member: Failed to add class member : Component J24 0533981171
+Added Member To Class: ClassName=11_MCU Member=Component R104 22R
+Added Member To Class: ClassName=11_MCU Member=Component R105 22R
+Added Member To Class: ClassName=11_MCU Member=Component R106 22R
+Added Member To Class: ClassName=11_MCU Member=Component R107 22R
+Added Member To Class: ClassName=11_MCU Member=Component R108 22R
+Added Member To Class: ClassName=11_MCU Member=Component R109 10M
+Added Member To Class: ClassName=11_MCU Member=Component R110 5.62k
+Added Member To Class: ClassName=10_USB Member=Component R111 10k
+Added Member To Class: ClassName=10_USB Member=Component R113 10k
+Added Member To Class: ClassName=10_USB Member=Component R115 10k
+Added Member To Class: ClassName=10_USB Member=Component R117 10k
+Added Member To Class: ClassName=10_USB Member=Component R119 100R
+Added Member To Class: ClassName=10_USB Member=Component R121 DNP/0R
+Added Member To Class: ClassName=10_USB Member=Component R123 10k
+Added Member To Class: ClassName=16_TEC Member=Component R125 10k
+Added Member To Class: ClassName=16_TEC Member=Component R134 10k
+Added Member To Class: ClassName=16_TEC Member=Component R136 22R
+Added Member To Class: ClassName=16_TEC Member=Component R138 22R
+Added Member To Class: ClassName=16_TEC Member=Component R140 10k
+Added Member To Class: ClassName=16_TEC Member=Component R142 10k
+Added Member To Class: ClassName=16_TEC Member=Component R144 10k
+Added Member To Class: ClassName=16_TEC Member=Component R146 10k
+Added Member To Class: ClassName=16_TEC Member=Component R147 10k
+Added Member To Class: ClassName=16_TEC Member=Component R148 10k
+Added Member To Class: ClassName=16_TEC Member=Component R149 10k
+Added Member To Class: ClassName=16_TEC Member=Component R150 10k
+Added Member To Class: ClassName=16_TEC Member=Component R151 10k
+Added Member To Class: ClassName=15_HEATER Member=Component R152 120R
+Added Member To Class: ClassName=15_HEATER Member=Component R153 120R
+Added Member To Class: ClassName=15_HEATER Member=Component R154 120R
+Added Member To Class: ClassName=15_HEATER Member=Component R155 10k
+Added Member To Class: ClassName=15_HEATER Member=Component R156 10k
+Added Member To Class: ClassName=15_HEATER Member=Component R159 120R
+Added Member To Class: ClassName=15_HEATER Member=Component R162 10k
+Added Member To Class: ClassName=15_HEATER Member=Component R163 10k
+Added Member To Class: ClassName=15_HEATER Member=Component R164 120R
+Added Member To Class: ClassName=15_HEATER Member=Component R165 10k
+Added Member To Class: ClassName=15_HEATER Member=Component R166 120R
+Added Member To Class: ClassName=15_HEATER Member=Component R167 10k
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R168 22R
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R172 10k
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R173 10k
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R174 22R
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R176 22R
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R177 22R
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R178 10k
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R180 22R
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R182 22R
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R184 10k
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R186 22R
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R188 22R
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R190 10k
+Added Member To Class: ClassName=14_NTC_TEMPSENSOR Member=Component R192 22R
+Added Member To Class: ClassName=18_HD4_PUMP Member=Component R194 DNP/4.7k
+Added Member To Class: ClassName=18_HD4_PUMP Member=Component R196 DNP/4.7k
+Added Member To Class: ClassName=18_HD4_PUMP Member=Component R198 4.7k
+Added Member To Class: ClassName=18_HD4_PUMP Member=Component R200 4.7k
+Added Member To Class: ClassName=18_HD4_PUMP Member=Component R202 22R
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R204 22R
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R206 4.7k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R208 4.7k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R210 22R
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R212 22R
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R214 22R
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R216 4.7k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R218 4.7k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R220 4.7k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R222 22R
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R224 22R
+Added Member To Class: ClassName=08_SOM_USB_CARD Member=Component R226 10k
+Added Member To Class: ClassName=08_SOM_USB_CARD Member=Component R228 DNP/10k
+Added Member To Class: ClassName=08_SOM_USB_CARD Member=Component R230 DNP/10k
+Added Member To Class: ClassName=08_SOM_USB_CARD Member=Component R232 DNP/10k
+Added Member To Class: ClassName=09_eMMC Member=Component R234 10k
+Added Member To Class: ClassName=09_eMMC Member=Component R236 10k
+Added Member To Class: ClassName=09_eMMC Member=Component R238 10k
+Added Member To Class: ClassName=09_eMMC Member=Component R240 10k
+Added Member To Class: ClassName=09_eMMC Member=Component R242 10k
+Added Member To Class: ClassName=12_CONSOLE Member=Component R244 10k
+Added Member To Class: ClassName=06_POWER_2 Member=Component R248 DNP/10k
+Added Member To Class: ClassName=06_POWER_2 Member=Component R249 470k
+Added Member To Class: ClassName=06_POWER_2 Member=Component R250 47k
+Added Member To Class: ClassName=06_POWER_2 Member=Component R252 22R
+Added Member To Class: ClassName=06_POWER_2 Member=Component R253 2.2k
+Added Member To Class: ClassName=06_POWER_2 Member=Component R254 10k
+Added Member To Class: ClassName=06_POWER_2 Member=Component R256 1.6k
+Added Member To Class: ClassName=19_SOLEDNOID Member=Component R258 10k
+Added Member To Class: ClassName=19_SOLEDNOID Member=Component R260 DNP/10k
+Added Member To Class: ClassName=19_SOLEDNOID Member=Component R262 10k
+Added Member To Class: ClassName=19_SOLEDNOID Member=Component R264 10k
+Added Member To Class: ClassName=19_SOLEDNOID Member=Component R266 DNP/10k
+Added Member To Class: ClassName=19_SOLEDNOID Member=Component R268 10k
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R270 10k
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R272 10k
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R274 10k
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R275 10k
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R276 10k
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R277 10k
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R278 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R279 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R280 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R281 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R283 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R285 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R287 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R289 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R291 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R293 10k
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R295 10k
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R297 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R298 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R299 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R300 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R301 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R302 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R303 22R
+Added Member To Class: ClassName=05_CONNECTOR_OUT Member=Component R304 22R
+Added Member To Class: ClassName=08_SOM Member=Component R379 22R
+Added Member To Class: ClassName=08_SOM Member=Component R380 22R
+Added Member To Class: ClassName=08_SOM Member=Component R381 10k
+Added Member To Class: ClassName=08_SOM Member=Component R382 10k
+Added Member To Class: ClassName=08_SOM Member=Component R383 10k
+Added Member To Class: ClassName=08_SOM Member=Component R384 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R385 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R386 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R387 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R388 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R389 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R390 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R391 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R392 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R393 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R394 DNP/10k
+Added Member To Class: ClassName=08_SOM Member=Component R395 DNP/10k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R398 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R400 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R401 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R402 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R403 1k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R406 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R407 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R408 10k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R409 22R
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R410 16.5k/1%
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R411 16.5k/1%
+Added Member To Class: ClassName=06_POWER_3 Member=Component R412 10k
+Added Member To Class: ClassName=06_POWER_3 Member=Component R413 10k
+Added Member To Class: ClassName=06_POWER_3 Member=Component R416 3.24k
+Added Member To Class: ClassName=06_POWER_3 Member=Component R417 DNP/10k
+Added Member To Class: ClassName=06_POWER_3 Member=Component R418 470k
+Added Member To Class: ClassName=06_POWER_3 Member=Component R419 47k
+Added Member To Class: ClassName=06_POWER_3 Member=Component R420 47k
+Added Member To Class: ClassName=06_POWER_3 Member=Component R422 10k
+Added Member To Class: ClassName=06_POWER_3 Member=Component R423 133k
+Added Member To Class: ClassName=06_POWER_3 Member=Component R424 1.6k
+Added Member To Class: ClassName=06_POWER_4 Member=Component R425 DNP/10k
+Added Member To Class: ClassName=06_POWER_4 Member=Component R426 470k
+Added Member To Class: ClassName=06_POWER_4 Member=Component R429 2.2k
+Added Member To Class: ClassName=06_POWER_4 Member=Component R437 2.2k
+Added Member To Class: ClassName=07_CAN Member=Component R441 22R
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component U31 RV-3129-C3-32.768KHZ-OPTION-A-TB-QA
