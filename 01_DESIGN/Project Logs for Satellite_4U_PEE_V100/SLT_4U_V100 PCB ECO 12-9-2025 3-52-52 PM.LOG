@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=PD23 Pin=R204-2
+Removed Pin From Net: NetName=PD24 Pin=R214-2
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R204
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R214
+Added Component: Designator=R126(RES_C_1005X40)
+Added Component: Designator=R127(RES_C_1005X40)
+Added Pin To Net: NetName=PD23 Pin=R126-2
+Added Pin To Net: NetName=PD24 Pin=R127-2
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Added Pin To Net: NetName=MCU_SENSOR1_nIRQ Pin=J13-1
+Added Pin To Net: NetName=MCU_SENSOR1_nIRQ Pin=R126-1
+Added Net: Name=MCU_SENSOR1_nIRQ
+Added Pin To Net: NetName=MCU_SENSOR2_nIRQ Pin=J14-1
+Added Pin To Net: NetName=MCU_SENSOR2_nIRQ Pin=R127-1
+Added Net: Name=MCU_SENSOR2_nIRQ
+Added Member To Class: ClassName=11_MCU Member=Component R126 22R
+Added Member To Class: ClassName=11_MCU Member=Component R127 22R
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL

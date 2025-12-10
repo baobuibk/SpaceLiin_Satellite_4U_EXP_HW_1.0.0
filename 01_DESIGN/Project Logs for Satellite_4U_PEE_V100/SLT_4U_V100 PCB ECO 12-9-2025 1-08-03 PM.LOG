@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=SOM_USB_LED_2 Pin=R332-1
+Removed Pin From Net: NetName=SOM_USB_LED_1 Pin=R335-1
+Removed Pin From Net: NetName=_PD21 Pin=R341-2
+Removed Pin From Net: NetName=_PD20 Pin=R347-2
+Removed Member From Class: ClassName=08_SOM Member=R341
+Removed Member From Class: ClassName=08_SOM Member=R347
+Added Component: Designator=C191(CAP_C_1005X60)
+Added Component: Designator=R455(RES_C_1005X40)
+Added Component: Designator=R456(RES_C_1005X40)
+Added Component: Designator=R457(RES_C_1005X40)
+Added Component: Designator=R458(RES_C_1005X40)
+Added Component: Designator=R459(RES_C_1005X40)
+Added Component: Designator=R460(RES_C_1005X40)
+Added Component: Designator=R461(RES_C_1005X40)
+Added Component: Designator=U42(SOIC127P790X216-8)
+Added Pin To Net: NetName=GND Pin=C191-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C191-2
+Added Pin To Net: NetName=VDD_3V3 Pin=R455-2
+Added Pin To Net: NetName=_PB10 Pin=R456-2
+Added Pin To Net: NetName=_PB13 Pin=R457-2
+Added Pin To Net: NetName=_PB9 Pin=R458-2
+Added Pin To Net: NetName=_PB11 Pin=R459-2
+Added Pin To Net: NetName=SOM_USB_LED_1 Pin=R460-1
+Added Pin To Net: NetName=_PD28 Pin=R460-2
+Added Pin To Net: NetName=SOM_USB_LED_2 Pin=R461-1
+Added Pin To Net: NetName=_PA20 Pin=R461-2
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Added Pin To Net: NetName=GND Pin=U42-4
+Added Pin To Net: NetName=VDD_3V3 Pin=U42-8
+Added Pin To Net: NetName=SOM_MRAM_QSPI_CLK Pin=R332-1
+Added Pin To Net: NetName=SOM_MRAM_QSPI_CLK Pin=U42-6
+Added Net: Name=SOM_MRAM_QSPI_CLK
+Added Pin To Net: NetName=SOM_MRAM_QSPI_IO0 Pin=R335-1
+Added Pin To Net: NetName=SOM_MRAM_QSPI_IO0 Pin=U42-5
+Added Net: Name=SOM_MRAM_QSPI_IO0
+Added Pin To Net: NetName=SOM_MRAM_QSPI_IO1 Pin=R459-1
+Added Pin To Net: NetName=SOM_MRAM_QSPI_IO1 Pin=U42-2
+Added Net: Name=SOM_MRAM_QSPI_IO1
+Added Pin To Net: NetName=SOM_MRAM_QSPI_IO2 Pin=R456-1
+Added Pin To Net: NetName=SOM_MRAM_QSPI_IO2 Pin=U42-3
+Added Net: Name=SOM_MRAM_QSPI_IO2
+Added Pin To Net: NetName=SOM_MRAM_QSPI_IO3 Pin=R458-1
+Added Pin To Net: NetName=SOM_MRAM_QSPI_IO3 Pin=U42-7
+Added Net: Name=SOM_MRAM_QSPI_IO3
+Added Pin To Net: NetName=SOM_RAM_QSPI_nCS Pin=R455-1
+Added Pin To Net: NetName=SOM_RAM_QSPI_nCS Pin=R457-1
+Added Pin To Net: NetName=SOM_RAM_QSPI_nCS Pin=U42-1
+Added Net: Name=SOM_RAM_QSPI_nCS
+Added Member To Class: ClassName=08_SOM_USB_CARD Member=Component C191 0.1uF/10V
+Added Member To Class: ClassName=08_SOM_USB_CARD Member=Component R455 4.7k
+Added Member To Class: ClassName=08_SOM Member=Component R456 22R
+Added Member To Class: ClassName=08_SOM Member=Component R457 22R
+Added Member To Class: ClassName=08_SOM Member=Component R458 22R
+Added Member To Class: ClassName=08_SOM Member=Component R459 22R
+Added Member To Class: ClassName=08_SOM Member=Component R460 22R
+Added Member To Class: ClassName=08_SOM Member=Component R461 22R
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL
+Added Member To Class: ClassName=08_SOM_USB_CARD Member=Component U42 AS3004204-0108X0PSAY

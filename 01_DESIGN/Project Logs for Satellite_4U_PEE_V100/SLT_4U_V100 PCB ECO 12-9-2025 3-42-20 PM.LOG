@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=NetR206_2 Pin=R209-1
+Removed Pin From Net: NetName=NetR205_2 Pin=R210-1
+Removed Pin From Net: NetName=SENSOR1_EN Pin=R211-2
+Removed Pin From Net: NetName=SENSOR2_EN Pin=R212-2
+Removed Pin From Net: NetName=SENSOR3_EN Pin=R224-2
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R209
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R210
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R211
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R212
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R222
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R223
+Removed Member From Class: ClassName=17_FLOW_Sensor Member=R224
+Added Pin To Net: NetName=NetR205_2 Pin=R81-1
+Added Pin To Net: NetName=NetR206_2 Pin=R86-1
+Added Pin To Net: NetName=SENSOR1_EN Pin=R213-1
+Added Pin To Net: NetName=SENSOR2_EN Pin=R217-1
+Added Pin To Net: NetName=NetR205_2 Pin=R220-2
+Added Pin To Net: NetName=NetR206_2 Pin=R221-2
+Added Pin To Net: NetName=SENSOR3_EN Pin=R225-1
+Added Pin To Net: NetName=SENSOR1_EN Pin=U18-5
+Added Pin To Net: NetName=SENSOR2_EN Pin=U19-5
+Added Pin To Net: NetName=NetR206_2 Pin=U20-2
+Added Pin To Net: NetName=NetR205_2 Pin=U20-3
+Added Pin To Net: NetName=SENSOR3_EN Pin=U20-5
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Change Net Name : Old Net Name=NetR205_2 New Net Name=SENSOR_I2C1_SDA
+Change Net Name : Old Net Name=NetR206_2 New Net Name=SENSOR_I2C1_SCL
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL
