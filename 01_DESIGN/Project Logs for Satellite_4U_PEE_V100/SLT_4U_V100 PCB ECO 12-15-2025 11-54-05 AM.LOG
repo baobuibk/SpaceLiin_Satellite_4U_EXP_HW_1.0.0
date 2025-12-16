@@ -1,0 +1,127 @@
+Change Footprint: Cannot match pads with new footprint in component :J26 Footprint:MOLEX_532610271
+Added Component: Designator=C204(CAP_C_1005X60)
+Added Component: Designator=C205(CAP_C_1005X60)
+Added Component: Designator=C206(CAP_C_1005X60)
+Added Component: Designator=C207(CAP_C_1005X60)
+Added Component: Designator=J27(MOLEX_0532610671)
+Added Component: Designator=J28(MOLEX_0532610671)
+Added Component: Designator=R192(RES_C_1005X40)
+Added Component: Designator=R347(RES_C_1005X40)
+Added Component: Designator=R462(RES_C_1005X40)
+Added Component: Designator=R463(RES_C_1005X40)
+Added Component: Designator=R464(RES_C_1005X40)
+Added Component: Designator=R465(RES_C_1005X40)
+Added Component: Designator=U45(TSOP8)
+Added Component: Designator=U46(TSOP8)
+Added Pin To Net: NetName=GND Pin=C204-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C204-2
+Added Pin To Net: NetName=GND Pin=C205-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C205-2
+Added Pin To Net: NetName=GND Pin=C206-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C206-2
+Added Pin To Net: NetName=GND Pin=C207-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C207-2
+Added Pin To Net: NetName=MCU_SENSOR1_nIRQ Pin=J27-1
+Added Pin To Net: NetName=3.3V_MCU Pin=J27-3
+Added Pin To Net: NetName=GND Pin=J27-4
+Added Pin To Net: NetName=GND Pin=J27-M1
+Added Pin To Net: NetName=GND Pin=J27-M2
+Added Pin To Net: NetName=MCU_SENSOR2_nIRQ Pin=J28-1
+Added Pin To Net: NetName=3.3V_MCU Pin=J28-3
+Added Pin To Net: NetName=GND Pin=J28-4
+Added Pin To Net: NetName=GND Pin=J28-M1
+Added Pin To Net: NetName=GND Pin=J28-M2
+Added Pin To Net: NetName=3.3V_MCU Pin=R192-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R347-1
+Added Pin To Net: NetName=GND Pin=R462-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R463-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R464-1
+Added Pin To Net: NetName=GND Pin=R465-2
+Added Pin To Net: NetName=TEMP _SENSOR Pin=U15-2
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Added Pin To Net: NetName=SENSOR_I2C1_SCL Pin=U45-2
+Added Pin To Net: NetName=SENSOR_I2C1_SDA Pin=U45-3
+Added Pin To Net: NetName=GND Pin=U45-4
+Added Pin To Net: NetName=3.3V_MCU Pin=U45-8
+Added Pin To Net: NetName=3.3V_MCU Pin=U46-1
+Added Pin To Net: NetName=SENSOR_I2C1_SCL Pin=U46-2
+Added Pin To Net: NetName=SENSOR_I2C1_SDA Pin=U46-3
+Added Pin To Net: NetName=GND Pin=U46-4
+Added Pin To Net: NetName=3.3V_MCU Pin=U46-8
+Change Net Name : Old Net Name=SENSOR3_EN New Net Name=SENSOR5_EN
+Added Pin To Net: NetName=NetJ27_2 Pin=J27-2
+Added Pin To Net: NetName=NetJ27_2 Pin=R192-2
+Added Pin To Net: NetName=NetJ27_2 Pin=U45-6
+Added Net: Name=NetJ27_2
+Added Pin To Net: NetName=NetJ27_5 Pin=J27-5
+Added Pin To Net: NetName=NetJ27_5 Pin=R347-2
+Added Pin To Net: NetName=NetJ27_5 Pin=U45-7
+Added Net: Name=NetJ27_5
+Added Pin To Net: NetName=NetJ28_2 Pin=J28-2
+Added Pin To Net: NetName=NetJ28_2 Pin=R463-2
+Added Pin To Net: NetName=NetJ28_2 Pin=U46-6
+Added Net: Name=NetJ28_2
+Added Pin To Net: NetName=NetJ28_5 Pin=J28-5
+Added Pin To Net: NetName=NetJ28_5 Pin=R464-2
+Added Pin To Net: NetName=NetJ28_5 Pin=U46-7
+Added Net: Name=NetJ28_5
+Added Pin To Net: NetName=SENSOR3_EN Pin=R462-1
+Added Pin To Net: NetName=SENSOR3_EN Pin=U45-5
+Added Net: Name=SENSOR3_EN
+Added Pin To Net: NetName=SENSOR4_EN Pin=R465-1
+Added Pin To Net: NetName=SENSOR4_EN Pin=U46-5
+Added Net: Name=SENSOR4_EN
+Change Class Name : Old Net Name=19_SOLEDNOID New Net Name=19_SOLEDNOID_1
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component C204 0.1uF/10V
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component C205 0.1uF/10V
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component C206 0.1uF/10V
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component C207 0.1uF/10V
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component J27 0533980671
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component J28 0533980671
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R192 4.7k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R347 4.7k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R462 10k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R463 4.7k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R464 4.7k
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component R465 10k
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component U45 PCA9508DP,118
+Added Member To Class: ClassName=17_FLOW_Sensor Member=Component U46 PCA9508DP,118
