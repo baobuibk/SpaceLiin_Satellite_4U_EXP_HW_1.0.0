@@ -1,0 +1,316 @@
+Removed Pin From Net: NetName=PC00 Pin=J23-11
+Removed Pin From Net: NetName=MCU_SENSOR1_nIRQ Pin=J27-1
+Removed Pin From Net: NetName=MCU_SENSOR2_nIRQ Pin=J28-1
+Removed Pin From Net: NetName=PE03 Pin=R6-2
+Removed Pin From Net: NetName=HEATER_PWM_5 Pin=R37-2
+Removed Pin From Net: NetName=POW_ONOFF_BUCK_PERI Pin=R57-2
+Removed Pin From Net: NetName=LASER_SW_EXT_CS Pin=R74-2
+Removed Pin From Net: NetName=24M_EN Pin=R96-1
+Removed Pin From Net: NetName=GND Pin=R131-2
+Removed Pin From Net: NetName=GND Pin=R133-2
+Removed Pin From Net: NetName=GND Pin=R141-2
+Removed Pin From Net: NetName=GND Pin=R143-2
+Removed Pin From Net: NetName=GND Pin=R150-1
+Removed Pin From Net: NetName=GND Pin=R151-1
+Removed Pin From Net: NetName=PE00 Pin=R255-2
+Removed Pin From Net: NetName=PA21 Pin=R439-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R485-1
+Removed Pin From Net: NetName=SENSOR_I2C1_SCL Pin=R485-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R486-1
+Removed Pin From Net: NetName=SENSOR_I2C1_SDA Pin=R486-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R487-1
+Removed Pin From Net: NetName=SENSOR_I2C1_SCL Pin=R487-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R488-1
+Removed Pin From Net: NetName=SENSOR_I2C1_SDA Pin=R488-2
+Removed Pin From Net: NetName=PE03 Pin=U1-9
+Removed Pin From Net: NetName=ADC_TEMP2 Pin=U3-22
+Removed Pin From Net: NetName=ADC_TEMP1 Pin=U3-23
+Removed Pin From Net: NetName=PE00 Pin=U3-27
+Removed Pin From Net: NetName=PE00 Pin=U24-9
+Removed Pin From Net: NetName=PA21 Pin=U38-9
+Removed Pin From Net: NetName=NetR484_2 Pin=U48-5
+Removed Member From Class: ClassName=16_TEC Member=R131
+Removed Member From Class: ClassName=16_TEC Member=R133
+Removed Member From Class: ClassName=16_TEC Member=R141
+Removed Member From Class: ClassName=16_TEC Member=R143
+Removed Member From Class: ClassName=16_TEC Member=R150
+Removed Member From Class: ClassName=16_TEC Member=R151
+Removed Member From Class: ClassName=17_I2C_Sensor_OnBoard Member=R485
+Removed Member From Class: ClassName=17_I2C_Sensor_OnBoard Member=R486
+Removed Member From Class: ClassName=17_I2C_Sensor_OnBoard Member=R487
+Removed Member From Class: ClassName=17_I2C_Sensor_OnBoard Member=R488
+Change Component Comment : Designator=R141 Old Comment=10k New Comment=4.7k
+Change Component Comment : Designator=R131 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R133 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R143 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R150 Old Comment=10k New Comment=22R
+Change Component Comment : Designator=R151 Old Comment=10k New Comment=22R
+Added Component: Designator=C213(CAP_C_1005X60)
+Added Component: Designator=C215(CAP_C_1005X60)
+Added Component: Designator=C216(CAP_C_1005X60)
+Added Component: Designator=C217(CAP_C_1005X60)
+Added Component: Designator=C218(CAP_C_1005X60)
+Added Component: Designator=C219(CAP_C_1005X60)
+Added Component: Designator=C220(CAP_C_1005X60)
+Added Component: Designator=C221(CAP_C_1005X60)
+Added Component: Designator=C222(CAP_C_1005X60)
+Added Component: Designator=C223(CAP_C_1005X60)
+Added Component: Designator=C224(CAP_C_1005X60)
+Added Component: Designator=C225(CAP_C_1005X60)
+Added Component: Designator=C226(CAP_C_1005X60)
+Added Component: Designator=C227(CAP_C_1005X60)
+Added Component: Designator=C228(CAP_C_1005X60)
+Added Component: Designator=C229(CAP_C_1005X60)
+Added Component: Designator=C230(CAP_C_1005X60)
+Added Component: Designator=C231(CAP_C_1005X60)
+Added Component: Designator=H1(HEX-M3_NoVia)
+Added Component: Designator=H2(HEX-M3_NoVia)
+Added Component: Designator=H5(HEX-M3_NoVia)
+Added Component: Designator=H6(HEX-M3_NoVia)
+Added Component: Designator=H9(HEX-M3_NoVia)
+Added Component: Designator=H10(HEX-M3_NoVia)
+Added Component: Designator=H11(HEX-M3_NoVia)
+Added Component: Designator=H12(HEX-M3_NoVia)
+Added Component: Designator=H13(HEX-M3_NoVia)
+Added Component: Designator=R25(RES_C_1005X40)
+Added Component: Designator=R26(RES_C_1005X40)
+Added Component: Designator=R277(RES_C_1005X40)
+Added Component: Designator=R278(RES_C_1005X40)
+Added Component: Designator=R279(RES_C_1005X40)
+Added Component: Designator=R280(RES_C_1005X40)
+Added Component: Designator=R281(RES_C_1005X40)
+Added Component: Designator=R282(RES_C_1005X40)
+Added Component: Designator=R283(RES_C_1005X40)
+Added Component: Designator=R284(RES_C_1005X40)
+Added Component: Designator=R285(RES_C_1005X40)
+Added Component: Designator=R286(RES_C_1005X40)
+Added Component: Designator=R287(RES_C_1005X40)
+Added Component: Designator=R288(RES_C_1005X40)
+Added Component: Designator=R289(RES_C_1005X40)
+Added Component: Designator=R290(RES_C_1005X40)
+Added Component: Designator=R295(RES_C_1005X40)
+Added Component: Designator=R296(RES_C_1005X40)
+Added Component: Designator=R297(RES_C_1005X40)
+Added Pin To Net: NetName=GND Pin=C213-1
+Added Pin To Net: NetName=GND Pin=C215-1
+Added Pin To Net: NetName=GND Pin=C216-1
+Added Pin To Net: NetName=PA21 Pin=C216-2
+Added Pin To Net: NetName=GND Pin=C217-1
+Added Pin To Net: NetName=PC01 Pin=C217-2
+Added Pin To Net: NetName=GND Pin=C218-1
+Added Pin To Net: NetName=PC13 Pin=C218-2
+Added Pin To Net: NetName=GND Pin=C219-1
+Added Pin To Net: NetName=PC15 Pin=C219-2
+Added Pin To Net: NetName=GND Pin=C220-1
+Added Pin To Net: NetName=PC29 Pin=C220-2
+Added Pin To Net: NetName=GND Pin=C221-1
+Added Pin To Net: NetName=PC30 Pin=C221-2
+Added Pin To Net: NetName=GND Pin=C223-1
+Added Pin To Net: NetName=PC31 Pin=C223-2
+Added Pin To Net: NetName=GND Pin=C225-1
+Added Pin To Net: NetName=PB00 Pin=C225-2
+Added Pin To Net: NetName=GND Pin=C226-1
+Added Pin To Net: NetName=PB01 Pin=C226-2
+Added Pin To Net: NetName=GND Pin=C227-1
+Added Pin To Net: NetName=PB02 Pin=C227-2
+Added Pin To Net: NetName=GND Pin=C228-1
+Added Pin To Net: NetName=PB03 Pin=C228-2
+Added Pin To Net: NetName=GND Pin=C229-1
+Added Pin To Net: NetName=PE03 Pin=C229-2
+Added Pin To Net: NetName=GND Pin=C230-1
+Added Pin To Net: NetName=GND Pin=C231-1
+Added Pin To Net: NetName=PE05 Pin=C231-2
+Added Pin To Net: NetName=GND Pin=H1-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H9-1
+Added Pin To Net: NetName=GND Pin=H10-1
+Added Pin To Net: NetName=GND Pin=H11-1
+Added Pin To Net: NetName=GND Pin=H12-1
+Added Pin To Net: NetName=GND Pin=H13-1
+Added Pin To Net: NetName=MCU_MPD_EN Pin=R25-1
+Added Pin To Net: NetName=PD07 Pin=R25-2
+Added Pin To Net: NetName=POW_ONOFF_LP Pin=R26-1
+Added Pin To Net: NetName=PD08 Pin=R26-2
+Added Pin To Net: NetName=LASER_SW_EXT_CS Pin=R37-2
+Added Pin To Net: NetName=SENSOR3_EN Pin=R54-2
+Added Pin To Net: NetName=SENSOR4_EN Pin=R56-2
+Added Pin To Net: NetName=HEATER_PWM_5 Pin=R74-2
+Added Pin To Net: NetName=MCU_MPD_DAC Pin=R96-1
+Added Pin To Net: NetName=POW_ONOFF_HEATER Pin=R131-1
+Added Pin To Net: NetName=PD15 Pin=R131-2
+Added Pin To Net: NetName=POW_ONOFF_BUCK_PERI Pin=R133-1
+Added Pin To Net: NetName=PD16 Pin=R133-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R141-1
+Added Pin To Net: NetName=MCU_SPI0_MISO Pin=R141-2
+Added Pin To Net: NetName=ADC_TEMP1 Pin=R143-2
+Added Pin To Net: NetName=ADC_TEMP2 Pin=R150-2
+Added Pin To Net: NetName=PA21 Pin=R151-1
+Added Pin To Net: NetName=PD30 Pin=R277-1
+Added Pin To Net: NetName=PC00 Pin=R278-1
+Added Pin To Net: NetName=MCU_MPD_PWM Pin=R279-1
+Added Pin To Net: NetName=PE00 Pin=R279-2
+Added Pin To Net: NetName=PE03 Pin=R281-2
+Added Pin To Net: NetName=PE05 Pin=R283-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R285-1
+Added Pin To Net: NetName=TEC_SPI_MISO Pin=R285-2
+Added Pin To Net: NetName=PC25 Pin=R286-1
+Added Pin To Net: NetName=24M_EN Pin=R286-2
+Added Pin To Net: NetName=SOM_PRAM_nCS Pin=R287-1
+Added Pin To Net: NetName=3.3V_SOM Pin=R287-2
+Added Pin To Net: NetName=MCU_PRAM_SPI1_nCS Pin=R288-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R288-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R289-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R290-1
+Added Pin To Net: NetName=GND Pin=R295-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R296-1
+Added Pin To Net: NetName=GND Pin=R297-2
+Added Pin To Net: NetName=GND Pin=U6-19
+Added Pin To Net: NetName=GND Pin=U7-19
+Added Pin To Net: NetName=GND Pin=U8-19
+Added Pin To Net: NetName=GND Pin=U9-19
+Added Pin To Net: NetName=eFUSE_ILIM_12V_LP Pin=U10-8
+Added Pin To Net: NetName=eFUSE_ILIM_12V_HEATER Pin=U10-9
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Added Pin To Net: NetName=BMP390_INT Pin=R14-1
+Added Pin To Net: NetName=BMP390_INT Pin=R290-2
+Added Pin To Net: NetName=BMP390_INT Pin=U48-7
+Added Net: Name=BMP390_INT
+Added Pin To Net: NetName=eFUSE_ILIM_5/12V_Solenoid Pin=R151-2
+Added Pin To Net: NetName=eFUSE_ILIM_5/12V_Solenoid Pin=R439-2
+Added Pin To Net: NetName=eFUSE_ILIM_5/12V_Solenoid Pin=U38-9
+Added Net: Name=eFUSE_ILIM_5/12V_Solenoid
+Added Pin To Net: NetName=eFUSE_ILIM_5V_SOM Pin=R255-2
+Added Pin To Net: NetName=eFUSE_ILIM_5V_SOM Pin=R282-1
+Added Pin To Net: NetName=eFUSE_ILIM_5V_SOM Pin=R283-1
+Added Pin To Net: NetName=eFUSE_ILIM_5V_SOM Pin=U24-9
+Added Net: Name=eFUSE_ILIM_5V_SOM
+Added Pin To Net: NetName=eFUSE_ILIM_IF_12V Pin=R6-2
+Added Pin To Net: NetName=eFUSE_ILIM_IF_12V Pin=R281-1
+Added Pin To Net: NetName=eFUSE_ILIM_IF_12V Pin=U1-9
+Added Net: Name=eFUSE_ILIM_IF_12V
+Added Pin To Net: NetName=LASER_ADC_2 Pin=J23-11
+Added Pin To Net: NetName=LASER_ADC_2 Pin=R278-2
+Added Net: Name=LASER_ADC_2
+Added Pin To Net: NetName=LSM6DSOX_INT Pin=R99-2
+Added Pin To Net: NetName=LSM6DSOX_INT Pin=R296-2
+Added Pin To Net: NetName=LSM6DSOX_INT Pin=U49-4
+Added Net: Name=LSM6DSOX_INT
+Added Pin To Net: NetName=MCU_SENSOR3_nIRQ Pin=J27-1
+Added Pin To Net: NetName=MCU_SENSOR3_nIRQ Pin=R57-2
+Added Net: Name=MCU_SENSOR3_nIRQ
+Added Pin To Net: NetName=MCU_SENSOR4_nIRQ Pin=J28-1
+Added Pin To Net: NetName=MCU_SENSOR4_nIRQ Pin=R277-2
+Added Net: Name=MCU_SENSOR4_nIRQ
+Added Pin To Net: NetName=NetR289_2 Pin=R289-2
+Added Pin To Net: NetName=NetR289_2 Pin=R295-1
+Added Pin To Net: NetName=NetR289_2 Pin=U48-5
+Added Net: Name=NetR289_2
+Added Pin To Net: NetName=NetR297_1 Pin=R297-1
+Added Pin To Net: NetName=NetR297_1 Pin=R490-2
+Added Pin To Net: NetName=NetR297_1 Pin=U49-1
+Added Net: Name=NetR297_1
+Added Pin To Net: NetName=PA19 Pin=C213-2
+Added Pin To Net: NetName=PA19 Pin=R143-1
+Added Pin To Net: NetName=PA19 Pin=U3-23
+Added Net: Name=PA19
+Added Pin To Net: NetName=PA20 Pin=C215-2
+Added Pin To Net: NetName=PA20 Pin=R150-1
+Added Pin To Net: NetName=PA20 Pin=U3-22
+Added Net: Name=PA20
+Added Pin To Net: NetName=PE04 Pin=C230-2
+Added Pin To Net: NetName=PE04 Pin=R282-2
+Added Pin To Net: NetName=PE04 Pin=U3-27
+Added Net: Name=PE04
+Added Member To Class: ClassName=11_MCU Member=Component C213 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C215 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C216 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C217 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C218 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C219 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C220 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C221 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C222 0.1uF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C223 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C224 0.1uF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C225 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C226 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C227 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C228 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C229 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C230 150pF/10V
+Added Member To Class: ClassName=11_MCU Member=Component C231 150pF/10V
+Added Member To Class: ClassName=MOUTING Member=Component H1 M3
+Added Member To Class: ClassName=MOUTING Member=Component H2 M3
+Added Member To Class: ClassName=MOUTING Member=Component H5 M3
+Added Member To Class: ClassName=MOUTING Member=Component H6 M3
+Added Member To Class: ClassName=MOUTING Member=Component H9 M3
+Added Member To Class: ClassName=MOUTING Member=Component H10 M3
+Added Member To Class: ClassName=MOUTING Member=Component H11 M3
+Added Member To Class: ClassName=MOUTING Member=Component H12 M3
+Added Member To Class: ClassName=MOUTING Member=Component H13 M3
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Added Member To Class: ClassName=11_MCU Member=Component R131 22R
+Added Member To Class: ClassName=11_MCU Member=Component R133 22R
+Added Member To Class: ClassName=11_MCU Member=Component R141 4.7k
+Added Member To Class: ClassName=11_MCU Member=Component R143 22R
+Added Member To Class: ClassName=11_MCU Member=Component R150 22R
+Added Member To Class: ClassName=11_MCU Member=Component R151 22R
+Added Member To Class: ClassName=11_MCU Member=Component R277 22R
+Added Member To Class: ClassName=11_MCU Member=Component R278 22R
+Added Member To Class: ClassName=11_MCU Member=Component R279 22R
+Added Member To Class: ClassName=11_MCU Member=Component R280 22R
+Added Member To Class: ClassName=11_MCU Member=Component R281 22R
+Added Member To Class: ClassName=11_MCU Member=Component R282 22R
+Added Member To Class: ClassName=11_MCU Member=Component R283 22R
+Added Member To Class: ClassName=11_MCU Member=Component R284 22R
+Added Member To Class: ClassName=11_MCU Member=Component R285 4.7k
+Added Member To Class: ClassName=11_MCU Member=Component R286 22R
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R287 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R288 4.7k
+Added Member To Class: ClassName=17_I2C_Sensor_OnBoard Member=Component R289 DNP/4.7k
+Added Member To Class: ClassName=17_I2C_Sensor_OnBoard Member=Component R290 4.7k
+Added Member To Class: ClassName=17_I2C_Sensor_OnBoard Member=Component R295 4.7k
+Added Member To Class: ClassName=17_I2C_Sensor_OnBoard Member=Component R296 4.7k
+Added Member To Class: ClassName=17_I2C_Sensor_OnBoard Member=Component R297 DNP/4.7k
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL

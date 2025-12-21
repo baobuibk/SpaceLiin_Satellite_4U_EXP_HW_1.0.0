@@ -1,0 +1,438 @@
+Removed Pin From Net: NetName=MCU_HD4_I2C2_SCL Pin=R201-2
+Removed Pin From Net: NetName=MCU_HD4_I2C2_SDA Pin=R202-2
+Removed Member From Class: ClassName=18_HD4_PUMP Member=R201
+Removed Member From Class: ClassName=18_HD4_PUMP Member=R202
+Added Component: Designator=C160(CAP_C_1005X60)
+Added Component: Designator=C208(CAP_C_1005X60)
+Added Component: Designator=C209(CAP_C_1005X60)
+Added Component: Designator=C210(CAP_C_1005X60)
+Added Component: Designator=C211(CAP_C_1005X60)
+Added Component: Designator=C212(CAP_C_1005X60)
+Added Component: Designator=C214(CAP_C_1005X60)
+Added Component: Designator=D20(SOD3717X145N)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D21(SOD3717X145N)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D22(SOD3717X145N)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D23(SOD3717X145N)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D24(SOD3717X145N)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D25(SOD3717X145N)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D26(SOD3717X145N)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=D27(SOD3717X145N)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=DZ1(SOD3717X145N)
+Added Component: Designator=DZ2(SOD3717X145N)
+Added Component: Designator=DZ3(SOD3717X145N)
+Added Component: Designator=DZ4(SOD3717X145N)
+Added Component: Designator=DZ5(SOD3717X145N)
+Added Component: Designator=DZ6(SOD3717X145N)
+Added Component: Designator=DZ7(SOD3717X145N)
+Added Component: Designator=DZ8(SOD3717X145N)
+Added Component: Designator=J29(MOLEX_5040500891)
+Added Component: Designator=J30(MOLEX_5040500891)
+Added Component: Designator=J31(MOLEX_5040500291)
+Added Component: Designator=Q11(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Alpha &amp; Omega Semiconductor Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q12(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Alpha &amp; Omega Semiconductor Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q13(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Alpha &amp; Omega Semiconductor Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q14(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Alpha &amp; Omega Semiconductor Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q15(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Alpha &amp; Omega Semiconductor Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q16(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Alpha &amp; Omega Semiconductor Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q17(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Alpha &amp; Omega Semiconductor Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q18(SOT95P240X120-3N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Alpha & Omega Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "AO3400A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Alpha &amp; Omega Semiconductor Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/AO3400A/Alpha/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R466(RES_C_1005X40)
+Added Component: Designator=R467(RES_C_1005X40)
+Added Component: Designator=R468(RES_C_1005X40)
+Added Component: Designator=R469(RES_C_1005X40)
+Added Component: Designator=R470(RES_C_1005X40)
+Added Component: Designator=R471(RES_C_1005X40)
+Added Component: Designator=R472(RES_C_1005X40)
+Added Component: Designator=R473(RES_C_1005X40)
+Added Component: Designator=R474(RES_C_1005X40)
+Added Component: Designator=R475(RES_C_1005X40)
+Added Component: Designator=R476(RES_C_1005X40)
+Added Component: Designator=R477(RES_C_1005X40)
+Added Component: Designator=R478(RES_C_1005X40)
+Added Component: Designator=R479(RES_C_1005X40)
+Added Component: Designator=R480(RES_C_1005X40)
+Added Component: Designator=R481(RES_C_1005X40)
+Added Component: Designator=R482(RES_C_1005X40)
+Added Component: Designator=R483(RES_C_1005X40)
+Added Component: Designator=R484(RES_C_1005X40)
+Added Component: Designator=R485(RES_C_1005X40)
+Added Component: Designator=R486(RES_C_1005X40)
+Added Component: Designator=R487(RES_C_1005X40)
+Added Component: Designator=R488(RES_C_1005X40)
+Added Component: Designator=R489(RES_C_1005X40)
+Added Component: Designator=R490(RES_C_1005X40)
+Added Component: Designator=U47(SOP65P440W-24N)
+Added Component: Designator=U48(10LGA_2X2X0p75_BOS)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2025 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bosch Sensortec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BMP390"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U49(PQFN50P250X300X86-14N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LSM6DSOXTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFLGA-14 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LSM6DSOXTR/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U50(MPD-200a)
+Added Pin To Net: NetName=GND Pin=C160-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C160-2
+Added Pin To Net: NetName=GND Pin=C208-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C208-2
+Added Pin To Net: NetName=GND Pin=C209-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C209-2
+Added Pin To Net: NetName=GND Pin=C210-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C210-2
+Added Pin To Net: NetName=GND Pin=C211-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C211-2
+Added Pin To Net: NetName=GND Pin=C212-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C212-2
+Added Pin To Net: NetName=GND Pin=C214-1
+Added Pin To Net: NetName=5V_HD4 Pin=C214-2
+Added Pin To Net: NetName=5/12V_Solenoid Pin=D20-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=D21-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=D22-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=D23-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=D24-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=D25-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=D26-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=D27-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=J29-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=J29-3
+Added Pin To Net: NetName=5/12V_Solenoid Pin=J29-5
+Added Pin To Net: NetName=5/12V_Solenoid Pin=J29-7
+Added Pin To Net: NetName=GND Pin=J29-M1
+Added Pin To Net: NetName=GND Pin=J29-M2
+Added Pin To Net: NetName=5/12V_Solenoid Pin=J30-1
+Added Pin To Net: NetName=5/12V_Solenoid Pin=J30-3
+Added Pin To Net: NetName=5/12V_Solenoid Pin=J30-5
+Added Pin To Net: NetName=5/12V_Solenoid Pin=J30-7
+Added Pin To Net: NetName=GND Pin=J30-M1
+Added Pin To Net: NetName=GND Pin=J30-M2
+Added Pin To Net: NetName=GND Pin=J31-M1
+Added Pin To Net: NetName=GND Pin=J31-M2
+Added Pin To Net: NetName=GND Pin=Q11-2
+Added Pin To Net: NetName=GND Pin=Q12-2
+Added Pin To Net: NetName=GND Pin=Q13-2
+Added Pin To Net: NetName=GND Pin=Q14-2
+Added Pin To Net: NetName=GND Pin=Q15-2
+Added Pin To Net: NetName=GND Pin=Q16-2
+Added Pin To Net: NetName=GND Pin=Q17-2
+Added Pin To Net: NetName=GND Pin=Q18-2
+Added Pin To Net: NetName=GND Pin=R470-1
+Added Pin To Net: NetName=GND Pin=R471-1
+Added Pin To Net: NetName=GND Pin=R472-1
+Added Pin To Net: NetName=GND Pin=R473-1
+Added Pin To Net: NetName=GND Pin=R478-1
+Added Pin To Net: NetName=GND Pin=R479-1
+Added Pin To Net: NetName=GND Pin=R480-1
+Added Pin To Net: NetName=GND Pin=R481-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R482-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R483-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R484-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R485-1
+Added Pin To Net: NetName=SENSOR_I2C1_SCL Pin=R485-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R486-1
+Added Pin To Net: NetName=SENSOR_I2C1_SDA Pin=R486-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R487-1
+Added Pin To Net: NetName=SENSOR_I2C1_SCL Pin=R487-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R488-1
+Added Pin To Net: NetName=SENSOR_I2C1_SDA Pin=R488-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R489-1
+Added Pin To Net: NetName=3.3V_MCU Pin=R490-1
+Added Pin To Net: NetName=MCU_HD4_I2C2_SCL Pin=U17-2
+Added Pin To Net: NetName=MCU_HD4_I2C2_SDA Pin=U17-3
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Added Pin To Net: NetName=3.3V_MCU Pin=U47-2
+Added Pin To Net: NetName=GND Pin=U47-12
+Added Pin To Net: NetName=GND Pin=U47-21
+Added Pin To Net: NetName=MCU_HD4_I2C2_SCL Pin=U47-22
+Added Pin To Net: NetName=MCU_HD4_I2C2_SDA Pin=U47-23
+Added Pin To Net: NetName=3.3V_MCU Pin=U47-24
+Added Pin To Net: NetName=3.3V_MCU Pin=U48-1
+Added Pin To Net: NetName=SENSOR_I2C1_SCL Pin=U48-2
+Added Pin To Net: NetName=GND Pin=U48-3
+Added Pin To Net: NetName=SENSOR_I2C1_SDA Pin=U48-4
+Added Pin To Net: NetName=GND Pin=U48-8
+Added Pin To Net: NetName=GND Pin=U48-9
+Added Pin To Net: NetName=3.3V_MCU Pin=U48-10
+Added Pin To Net: NetName=3.3V_MCU Pin=U49-5
+Added Pin To Net: NetName=GND Pin=U49-6
+Added Pin To Net: NetName=GND Pin=U49-7
+Added Pin To Net: NetName=3.3V_MCU Pin=U49-8
+Added Pin To Net: NetName=SENSOR_I2C1_SCL Pin=U49-13
+Added Pin To Net: NetName=SENSOR_I2C1_SDA Pin=U49-14
+Added Pin To Net: NetName=5V_HD4 Pin=U50-1
+Added Pin To Net: NetName=GND Pin=U50-5
+Added Pin To Net: NetName=GND Pin=U50-8
+Added Pin To Net: NetName=MCU_MPD_DAC Pin=U50-2
+Added Net: Name=MCU_MPD_DAC
+Added Pin To Net: NetName=MCU_MPD_EN Pin=U50-3
+Added Net: Name=MCU_MPD_EN
+Added Pin To Net: NetName=MCU_MPD_PWM Pin=U50-4
+Added Net: Name=MCU_MPD_PWM
+Added Pin To Net: NetName=NetD20_2 Pin=D20-2
+Added Pin To Net: NetName=NetD20_2 Pin=DZ1-2
+Added Net: Name=NetD20_2
+Added Pin To Net: NetName=NetD21_2 Pin=D21-2
+Added Pin To Net: NetName=NetD21_2 Pin=DZ2-2
+Added Net: Name=NetD21_2
+Added Pin To Net: NetName=NetD22_2 Pin=D22-2
+Added Pin To Net: NetName=NetD22_2 Pin=DZ3-2
+Added Net: Name=NetD22_2
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetD23_2 Pin=DZ4-2
+Added Net: Name=NetD23_2
+Added Pin To Net: NetName=NetD24_2 Pin=D24-2
+Added Pin To Net: NetName=NetD24_2 Pin=DZ5-2
+Added Net: Name=NetD24_2
+Added Pin To Net: NetName=NetD25_2 Pin=D25-2
+Added Pin To Net: NetName=NetD25_2 Pin=DZ6-2
+Added Net: Name=NetD25_2
+Added Pin To Net: NetName=NetD26_2 Pin=D26-2
+Added Pin To Net: NetName=NetD26_2 Pin=DZ7-2
+Added Net: Name=NetD26_2
+Added Pin To Net: NetName=NetD27_2 Pin=D27-2
+Added Pin To Net: NetName=NetD27_2 Pin=DZ8-2
+Added Net: Name=NetD27_2
+Added Pin To Net: NetName=NetJ31_1 Pin=J31-1
+Added Pin To Net: NetName=NetJ31_1 Pin=U50-6
+Added Net: Name=NetJ31_1
+Added Pin To Net: NetName=NetJ31_2 Pin=J31-2
+Added Pin To Net: NetName=NetJ31_2 Pin=U50-10
+Added Net: Name=NetJ31_2
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R466-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R470-2
+Added Net: Name=NetQ11_1
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=NetQ12_1 Pin=R467-1
+Added Pin To Net: NetName=NetQ12_1 Pin=R471-2
+Added Net: Name=NetQ12_1
+Added Pin To Net: NetName=NetQ13_1 Pin=Q13-1
+Added Pin To Net: NetName=NetQ13_1 Pin=R468-1
+Added Pin To Net: NetName=NetQ13_1 Pin=R472-2
+Added Net: Name=NetQ13_1
+Added Pin To Net: NetName=NetQ14_1 Pin=Q14-1
+Added Pin To Net: NetName=NetQ14_1 Pin=R469-1
+Added Pin To Net: NetName=NetQ14_1 Pin=R473-2
+Added Net: Name=NetQ14_1
+Added Pin To Net: NetName=NetQ15_1 Pin=Q15-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R474-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R478-2
+Added Net: Name=NetQ15_1
+Added Pin To Net: NetName=NetQ16_1 Pin=Q16-1
+Added Pin To Net: NetName=NetQ16_1 Pin=R475-1
+Added Pin To Net: NetName=NetQ16_1 Pin=R479-2
+Added Net: Name=NetQ16_1
+Added Pin To Net: NetName=NetQ17_1 Pin=Q17-1
+Added Pin To Net: NetName=NetQ17_1 Pin=R476-1
+Added Pin To Net: NetName=NetQ17_1 Pin=R480-2
+Added Net: Name=NetQ17_1
+Added Pin To Net: NetName=NetQ18_1 Pin=Q18-1
+Added Pin To Net: NetName=NetQ18_1 Pin=R477-1
+Added Pin To Net: NetName=NetQ18_1 Pin=R481-2
+Added Net: Name=NetQ18_1
+Added Pin To Net: NetName=NetR482_2 Pin=R482-2
+Added Pin To Net: NetName=NetR482_2 Pin=U47-1
+Added Net: Name=NetR482_2
+Added Pin To Net: NetName=NetR483_2 Pin=R483-2
+Added Pin To Net: NetName=NetR483_2 Pin=U47-3
+Added Net: Name=NetR483_2
+Added Pin To Net: NetName=NetR484_2 Pin=R484-2
+Added Pin To Net: NetName=NetR484_2 Pin=U48-5
+Added Pin To Net: NetName=NetR484_2 Pin=U48-6
+Added Net: Name=NetR484_2
+Added Pin To Net: NetName=NetR489_2 Pin=R489-2
+Added Pin To Net: NetName=NetR489_2 Pin=U49-12
+Added Net: Name=NetR489_2
+Added Pin To Net: NetName=NetR490_2 Pin=R490-2
+Added Pin To Net: NetName=NetR490_2 Pin=U49-1
+Added Net: Name=NetR490_2
+Added Pin To Net: NetName=SOLENOID_A_1 Pin=DZ1-1
+Added Pin To Net: NetName=SOLENOID_A_1 Pin=J29-2
+Added Pin To Net: NetName=SOLENOID_A_1 Pin=Q11-3
+Added Net: Name=SOLENOID_A_1
+Added Pin To Net: NetName=SOLENOID_A_2 Pin=DZ2-1
+Added Pin To Net: NetName=SOLENOID_A_2 Pin=J29-4
+Added Pin To Net: NetName=SOLENOID_A_2 Pin=Q12-3
+Added Net: Name=SOLENOID_A_2
+Added Pin To Net: NetName=SOLENOID_A_3 Pin=DZ3-1
+Added Pin To Net: NetName=SOLENOID_A_3 Pin=J29-6
+Added Pin To Net: NetName=SOLENOID_A_3 Pin=Q13-3
+Added Net: Name=SOLENOID_A_3
+Added Pin To Net: NetName=SOLENOID_A_4 Pin=DZ4-1
+Added Pin To Net: NetName=SOLENOID_A_4 Pin=J29-8
+Added Pin To Net: NetName=SOLENOID_A_4 Pin=Q14-3
+Added Net: Name=SOLENOID_A_4
+Added Pin To Net: NetName=SOLENOID_A_5 Pin=DZ5-1
+Added Pin To Net: NetName=SOLENOID_A_5 Pin=J30-2
+Added Pin To Net: NetName=SOLENOID_A_5 Pin=Q15-3
+Added Net: Name=SOLENOID_A_5
+Added Pin To Net: NetName=SOLENOID_A_6 Pin=DZ6-1
+Added Pin To Net: NetName=SOLENOID_A_6 Pin=J30-4
+Added Pin To Net: NetName=SOLENOID_A_6 Pin=Q16-3
+Added Net: Name=SOLENOID_A_6
+Added Pin To Net: NetName=SOLENOID_A_7 Pin=DZ7-1
+Added Pin To Net: NetName=SOLENOID_A_7 Pin=J30-6
+Added Pin To Net: NetName=SOLENOID_A_7 Pin=Q17-3
+Added Net: Name=SOLENOID_A_7
+Added Pin To Net: NetName=SOLENOID_A_8 Pin=DZ8-1
+Added Pin To Net: NetName=SOLENOID_A_8 Pin=J30-8
+Added Pin To Net: NetName=SOLENOID_A_8 Pin=Q18-3
+Added Net: Name=SOLENOID_A_8
+Added Pin To Net: NetName=SOLENOID_CTR_1 Pin=R466-2
+Added Pin To Net: NetName=SOLENOID_CTR_1 Pin=U47-4
+Added Net: Name=SOLENOID_CTR_1
+Added Pin To Net: NetName=SOLENOID_CTR_2 Pin=R467-2
+Added Pin To Net: NetName=SOLENOID_CTR_2 Pin=U47-5
+Added Net: Name=SOLENOID_CTR_2
+Added Pin To Net: NetName=SOLENOID_CTR_3 Pin=R468-2
+Added Pin To Net: NetName=SOLENOID_CTR_3 Pin=U47-6
+Added Net: Name=SOLENOID_CTR_3
+Added Pin To Net: NetName=SOLENOID_CTR_4 Pin=R469-2
+Added Pin To Net: NetName=SOLENOID_CTR_4 Pin=U47-7
+Added Net: Name=SOLENOID_CTR_4
+Added Pin To Net: NetName=SOLENOID_CTR_5 Pin=R474-2
+Added Pin To Net: NetName=SOLENOID_CTR_5 Pin=U47-8
+Added Net: Name=SOLENOID_CTR_5
+Added Pin To Net: NetName=SOLENOID_CTR_6 Pin=R475-2
+Added Pin To Net: NetName=SOLENOID_CTR_6 Pin=U47-9
+Added Net: Name=SOLENOID_CTR_6
+Added Pin To Net: NetName=SOLENOID_CTR_7 Pin=R476-2
+Added Pin To Net: NetName=SOLENOID_CTR_7 Pin=U47-10
+Added Net: Name=SOLENOID_CTR_7
+Added Pin To Net: NetName=SOLENOID_CTR_8 Pin=R477-2
+Added Pin To Net: NetName=SOLENOID_CTR_8 Pin=U47-11
+Added Net: Name=SOLENOID_CTR_8
+Added Class: Name=17_I2C_Sensor_OnBoard
+Added Class: Name=18_HD4_PUMP_2
+Added Class: Name=19_SOLEDNOID_2
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL
