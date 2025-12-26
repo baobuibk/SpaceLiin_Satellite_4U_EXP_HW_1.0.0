@@ -1,0 +1,62 @@
+Change Component Footprint: Designator=TP1 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP2 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP3 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP4 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP5 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP17 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP18 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP19 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP20 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP21 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP22 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP23 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP24 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP25 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP26 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP27 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP28 Old Footprint=Testpoint_50 New Footprint=TP_1mm_SMD
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Add Differential Pair: Number of nets in differential pair NetR299_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR300_2 is 1 instead of 2
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL

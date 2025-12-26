@@ -1,0 +1,621 @@
+Change Component DesignItemId : Designator=TP3 Old DesignItemId=CON1759 New DesignItemId=Test Point
+Change Component DesignItemId : Designator=TP4 Old DesignItemId=CON1759 New DesignItemId=Test Point
+Change Component DesignItemId : Designator=TP5 Old DesignItemId=CON1759 New DesignItemId=Test Point
+Change Component DesignItemId : Designator=TP6 Old DesignItemId=CON1759 New DesignItemId=Test Point
+Change Footprint: Footprint Not Found RES_C_1206_SHUNT
+Change Footprint: Footprint Not Found RES_C_1206_SHUNT
+Change Footprint: Footprint Not Found RES_C_1206_SHUNT
+Change Footprint: Footprint Not Found RES_C_1206_SHUNT
+Change Component Footprint: Designator=TP3 Old Footprint=Testpoint_TH_D130H80 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP4 Old Footprint=Testpoint_TH_D130H80 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP5 Old Footprint=Testpoint_TH_D130H80 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP6 Old Footprint=Testpoint_TH_D130H80 New Footprint=TP_1mm_SMD
+Change Component Comment : Designator=TP3 Old Comment=Test Point No BOM New Comment=
+Change Component Comment : Designator=TP4 Old Comment=Test Point No BOM New Comment=
+Change Component Comment : Designator=TP5 Old Comment=Test Point No BOM New Comment=
+Change Component Comment : Designator=TP6 Old Comment=Test Point No BOM New Comment=
+Change Component Library : Designator=TP3 Old Library=MCHP-CDB.DbLib New Library=LABLIB.SchLib
+Change Component Library : Designator=TP4 Old Library=MCHP-CDB.DbLib New Library=LABLIB.SchLib
+Change Component Library : Designator=TP5 Old Library=MCHP-CDB.DbLib New Library=LABLIB.SchLib
+Change Component Library : Designator=TP6 Old Library=MCHP-CDB.DbLib New Library=LABLIB.SchLib
+Change component parameters: Designator = "TP3" ("TP3"); Footprint = "Testpoint_TH_D130H80"; UniqueID = "\PJCSMJOB" ("\PJCSMJOB")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP4" ("TP4"); Footprint = "Testpoint_TH_D130H80"; UniqueID = "\WYTJKAPT" ("\WYTJKAPT")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP5" ("TP5"); Footprint = "Testpoint_TH_D130H80"; UniqueID = "\XHWPFRHT" ("\XHWPFRHT")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP6" ("TP6"); Footprint = "Testpoint_TH_D130H80"; UniqueID = "\CLAYJFFR" ("\CLAYJFFR")
+Change component parameters (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L7(IND_C_1008)
+Add component (AddParameter): Name = "Category"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/m_dfe252012p.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\m_dfe252012p.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Inductor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\IND_C_1008.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR"; Value = "0.06R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "INDUCTOR 1.5uH 3.5A 20% SMD 1008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DFE252012P-1R5M=P2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "IND1335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Razvan Cristescu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current"; Value = "3.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10648-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "1MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5uH"; VariantName = "[No Variations]"
+Added Component: Designator=L8(IND_C_1008)
+Add component (AddParameter): Name = "Category"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/m_dfe252012p.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\m_dfe252012p.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Inductor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\IND_C_1008.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR"; Value = "0.06R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "INDUCTOR 1.5uH 3.5A 20% SMD 1008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DFE252012P-1R5M=P2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "IND1335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Razvan Cristescu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current"; Value = "3.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10648-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "1MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5uH"; VariantName = "[No Variations]"
+Added Component: Designator=L9(IND_C_1008)
+Add component (AddParameter): Name = "Category"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/m_dfe252012p.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\m_dfe252012p.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Inductor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\IND_C_1008.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR"; Value = "0.06R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "INDUCTOR 1.5uH 3.5A 20% SMD 1008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DFE252012P-1R5M=P2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "IND1335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Razvan Cristescu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current"; Value = "3.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10648-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "1MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5uH"; VariantName = "[No Variations]"
+Added Component: Designator=L10(IND_C_1008)
+Add component (AddParameter): Name = "Category"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/m_dfe252012p.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\m_dfe252012p.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Inductor.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\IND_C_1008.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DCR"; Value = "0.06R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "INDUCTOR 1.5uH 3.5A 20% SMD 1008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DFE252012P-1R5M=P2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "IND1335"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Razvan Cristescu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RMS Current"; Value = "3.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-10648-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Frequency"; Value = "1MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5uH"; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP12(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP13(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP14(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP15(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP16(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP17(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP18(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP19(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP20(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP21(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP22(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP23(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP24(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP25(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP26(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP27(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP28(TP_1mm_SMD)
+Add component (AddParameter): Name = "Category"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompanyID"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR_URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Solder"; Value = "NF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(CRYSTAL_NX2012SA)
+Add component (AddParameter): Name = "Category"; Value = "Crystal/Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/c_NX2012SA-STD-MUB-1_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\c_NX2012SA-STD-MUB-1_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Crystal 2 Pins.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\CRYSTAL_NX2012SA.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "CRYSTAL 32.768kHz 12.5pF SMD NX2012SA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "NDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "NX2012SA-32.768K-STD-MUB-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "OSC1092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Jamus Griego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "644-1219-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Crystal 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(DFN-4_2.5x2)
+Add component (AddParameter): Name = "Category"; Value = "MCHP-Clock/Timing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\DSC10xx DFN-4.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\DFN-4_2.5x2.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "MCHP CLOCK OSCILLATOR SINGLE 24MHz DSC1001DI5-024.0000 SMD-2520"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DSC1001DI5-024.0000T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "MIC6659"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Maurizio Gavardoni"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DSC1001DI5-024.0000T-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DSC10xx DFN-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y3(CRYSTAL_ABM8G)
+Add component (AddParameter): Name = "Category"; Value = "Crystal/Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/ABM8G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\ABM8G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Crystal 4 Pins.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\CRYSTAL_ABM8G.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "CRYSTAL 24MHz 18pF SMD ABM8G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "18pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Abracon Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "ABM8G-24.000MHZ-18-D2Y-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "OSC1047"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Mark Loper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "ABM8G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "535-10273-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Crystal 4 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "24MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y4(DFN-4_2x1.6)
+Add component (AddParameter): Name = "Category"; Value = "MCHP-Clock/Timing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\DSC60xx DFN-4_LGA-4.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\DFN-4_2x1.6.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "MCHP CLOCK OSCILLATOR SINGLE 32.768KHz DSC6003MA3B-032K768 SMD DFN-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "DSC6003MA3B-032K768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "MIC8888"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Ciprian Abramov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "DNP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "DSC6003MA3B-032K768-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "579-6003MA3B032K768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "DSC60xx DFN-4_LGA-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768KHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetL7_1 Pin=L7-1
+Added Pin To Net: NetName=VDD_3V3 Pin=L7-2
+Added Pin To Net: NetName=NetL8_1 Pin=L8-1
+Added Pin To Net: NetName=VDD_1V35 Pin=L8-2
+Added Pin To Net: NetName=NetL9_1 Pin=L9-1
+Added Pin To Net: NetName=VDD_1V15_OUT3 Pin=L9-2
+Added Pin To Net: NetName=NetL10_1 Pin=L10-1
+Added Pin To Net: NetName=VDD_1V15_OUT4 Pin=L10-2
+Add Pin To Net: Unknown Pin: Pin R344-3
+Add Pin To Net: Unknown Pin: Pin R344-4
+Add Pin To Net: Unknown Pin: Pin R349-3
+Add Pin To Net: Unknown Pin: Pin R349-4
+Add Pin To Net: Unknown Pin: Pin R353-3
+Add Pin To Net: Unknown Pin: Pin R353-4
+Add Pin To Net: Unknown Pin: Pin R354-3
+Add Pin To Net: Unknown Pin: Pin R354-4
+Add Pin To Net: Unknown Pin: Pin TP3-0
+Add Pin To Net: Unknown Pin: Pin TP4-0
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP17-0
+Add Pin To Net: Unknown Pin: Pin TP18-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP24-0
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Added Pin To Net: NetName=XOUT32 Pin=Y1-1
+Added Pin To Net: NetName=XIN32 Pin=Y1-2
+Added Pin To Net: NetName=NetQ27_3 Pin=Y2-1
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=NetR322_1 Pin=Y2-3
+Added Pin To Net: NetName=VDD_3V3 Pin=Y2-4
+Added Pin To Net: NetName=XOUT_24M Pin=Y3-1
+Added Pin To Net: NetName=GND Pin=Y3-2
+Added Pin To Net: NetName=XIN_24M Pin=Y3-3
+Added Pin To Net: NetName=GND Pin=Y3-4
+Added Pin To Net: NetName=VDD_3V3 Pin=Y4-1
+Added Pin To Net: NetName=GND Pin=Y4-2
+Added Pin To Net: NetName=NetR326_1 Pin=Y4-3
+Added Pin To Net: NetName=VDD_3V3 Pin=Y4-4
+Add Differential Pair: Number of nets in differential pair NetR299_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR300_2 is 1 instead of 2
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component L7 Inductor
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component L8 Inductor
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component L9 Inductor
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component L10 Inductor
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP7
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP8
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP9
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP10
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP11
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP12
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP13
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP14
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP15
+Added Member To Class: ClassName=08_SAMA7G54-PMIC Member=Component TP16
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP17
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP18
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP19
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP20
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP21
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP22
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP23
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP24
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP25
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP26
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP27
+Added Member To Class: ClassName=08_SAMA7G54-DDR3 Member=Component TP28
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL
+Added Member To Class: ClassName=08_SAMA7G54-MPU Member=Component Y1 Crystal 2 Pins
+Added Member To Class: ClassName=08_SAMA7G54-MPU Member=Component Y2 DSC10xx DFN-4
+Added Member To Class: ClassName=08_SAMA7G54-MPU Member=Component Y3 Crystal 4 Pins
+Added Member To Class: ClassName=08_SAMA7G54-MPU Member=Component Y4 DSC60xx DFN-4_LGA-4

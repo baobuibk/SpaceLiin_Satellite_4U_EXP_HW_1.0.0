@@ -1,0 +1,72 @@
+Change Component Footprint: Designator=TP1 Old Footprint=Testpoint_TH_D130H80 New Footprint=TP_1mm_SMD
+Change Component Footprint: Designator=TP2 Old Footprint=Testpoint_TH_D130H80 New Footprint=TP_1mm_SMD
+Add Pin To Net: Unknown Pin: Pin TP3-0
+Add Pin To Net: Unknown Pin: Pin TP4-0
+Add Pin To Net: Unknown Pin: Pin TP5-0
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP17-0
+Add Pin To Net: Unknown Pin: Pin TP18-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP24-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Add Pin To Net: Unknown Pin: Pin TP26-0
+Add Pin To Net: Unknown Pin: Pin TP27-0
+Add Pin To Net: Unknown Pin: Pin TP28-0
+Add Pin To Net: Unknown Pin: Pin U25-1
+Add Pin To Net: Unknown Pin: Pin U25-2
+Add Pin To Net: Unknown Pin: Pin U25-3
+Add Pin To Net: Unknown Pin: Pin U25-4
+Add Pin To Net: Unknown Pin: Pin U25-5
+Add Pin To Net: Unknown Pin: Pin U25-6
+Add Pin To Net: Unknown Pin: Pin U25-7
+Add Pin To Net: Unknown Pin: Pin U25-8
+Add Pin To Net: Unknown Pin: Pin U25-9
+Add Pin To Net: Unknown Pin: Pin U26-1
+Add Pin To Net: Unknown Pin: Pin U26-2
+Add Pin To Net: Unknown Pin: Pin U26-3
+Add Pin To Net: Unknown Pin: Pin U26-4
+Add Pin To Net: Unknown Pin: Pin U26-5
+Add Pin To Net: Unknown Pin: Pin U26-6
+Add Pin To Net: Unknown Pin: Pin U26-7
+Add Pin To Net: Unknown Pin: Pin U26-8
+Add Pin To Net: Unknown Pin: Pin U26-9
+Add Pin To Net: Unknown Pin: Pin U27-1
+Add Pin To Net: Unknown Pin: Pin U27-2
+Add Pin To Net: Unknown Pin: Pin U27-3
+Add Pin To Net: Unknown Pin: Pin U27-4
+Add Pin To Net: Unknown Pin: Pin U27-5
+Add Pin To Net: Unknown Pin: Pin U27-6
+Add Pin To Net: Unknown Pin: Pin U27-7
+Add Pin To Net: Unknown Pin: Pin U27-8
+Add Pin To Net: Unknown Pin: Pin U27-9
+Add Pin To Net: Unknown Pin: Pin U28-1
+Add Pin To Net: Unknown Pin: Pin U28-2
+Add Pin To Net: Unknown Pin: Pin U28-3
+Add Pin To Net: Unknown Pin: Pin U28-4
+Add Pin To Net: Unknown Pin: Pin U28-5
+Add Pin To Net: Unknown Pin: Pin U28-6
+Add Pin To Net: Unknown Pin: Pin U28-7
+Add Pin To Net: Unknown Pin: Pin U28-8
+Add Pin To Net: Unknown Pin: Pin U28-9
+Add Differential Pair: Number of nets in differential pair NetR299_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR300_2 is 1 instead of 2
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Add Class Member: Failed to add class member : Component U25 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U26 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U27 TB67H451AFNG,EL
+Add Class Member: Failed to add class member : Component U28 TB67H451AFNG,EL
