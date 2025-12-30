@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=DIFF90 Member=NetR299_2
+Removed Member From Class: ClassName=DIFF90 Member=NetR300_2
+Change Net Name : Old Net Name=NetR299_2 New Net Name=USBA_N
+Change Net Name : Old Net Name=NetR300_2 New Net Name=USBA_P
+Added Differential Pair: Name=IF_SOM_USB
+Added Differential Pair: Name=USBA
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Added Member To Class: ClassName=DIFF90 Member=Wire USBA_N
+Added Member To Class: ClassName=DIFF90 Member=Wire USBA_P
+Added Member To Class: ClassName=DIFF90 Member=USBA

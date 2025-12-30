@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=U25-9
+Added Pin To Net: NetName=GND Pin=U26-9
+Added Pin To Net: NetName=GND Pin=U27-9
+Added Pin To Net: NetName=GND Pin=U28-9
+Add Differential Pair: Number of nets in differential pair NetR299_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetR300_2 is 1 instead of 2
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
