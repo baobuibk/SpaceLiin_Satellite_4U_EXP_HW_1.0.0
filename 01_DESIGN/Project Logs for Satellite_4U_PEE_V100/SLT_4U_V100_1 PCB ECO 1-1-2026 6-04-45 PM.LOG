@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C130 Old Footprint=CAP_C_1608X80 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C131 Old Footprint=CAP_C_1608X80 New Footprint=cap_c_0402
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Added Member To Class: ClassName=08_SAMA7G54-PIO Member=Component U29 SAMA7G54

@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C150 Old Footprint=CAP_C_1005X60 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C244 Old Footprint=CAP_C_1005X60 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C260 Old Footprint=CAP_C_1005X60 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C261 Old Footprint=CAP_C_1005X60 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C274 Old Footprint=CAP_C_1005X60 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C301 Old Footprint=CAP_C_1005X60 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C320 Old Footprint=CAP_C_1005X60 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C340 Old Footprint=CAP_C_1005X60 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C283 Old Footprint=CAP_C_1608X80 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C284 Old Footprint=CAP_C_1608X80 New Footprint=cap_c_0402
+Change Component Footprint: Designator=C333 Old Footprint=CAP_C_1608X80 New Footprint=cap_c_0402
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R

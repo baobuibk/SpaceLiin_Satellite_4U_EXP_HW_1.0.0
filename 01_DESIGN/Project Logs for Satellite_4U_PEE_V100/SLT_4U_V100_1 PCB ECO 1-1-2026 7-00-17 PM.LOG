@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C281 Old Footprint=cap_c_0201 New Footprint=cap_c_0603
+Change Component Footprint: Designator=C282 Old Footprint=cap_c_0201 New Footprint=cap_c_0603
+Change Component Footprint: Designator=C287 Old Footprint=cap_c_0201 New Footprint=cap_c_0603
+Change Component Footprint: Designator=C288 Old Footprint=cap_c_0201 New Footprint=cap_c_0603
+Change Component Footprint: Designator=C289 Old Footprint=cap_c_0201 New Footprint=cap_c_0603
+Change Component Footprint: Designator=C290 Old Footprint=cap_c_0201 New Footprint=cap_c_0603
+Change Component Footprint: Designator=C291 Old Footprint=cap_c_0201 New Footprint=cap_c_0603
+Change Component Footprint: Designator=C292 Old Footprint=cap_c_0201 New Footprint=cap_c_0603
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
