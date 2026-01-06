@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=PA07_XIN32 Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=PA08_XOUT32 Pin=C17-2
+Removed Pin From Net: NetName=PA07_XIN32 Pin=XC1-1
+Removed Pin From Net: NetName=PA08_XOUT32 Pin=XC1-2
+Removed Pin From Net: NetName=GND Pin=XC1-3
+Removed Member From Class: ClassName=11_MCU Member=C222
+Removed Member From Class: ClassName=11_MCU Member=C224
+Removed Member From Class: ClassName=11_MCU Member=R284
+Removed Member From Class: ClassName=11_MCU Member=XC1
+Change Footprint: Footprint Not Found CAP_C_0201
+Change Footprint: Footprint Not Found CAP_C_0201
+Change Footprint: Footprint Not Found res_c_0201
+Change Component Comment : Designator=C16 Old Comment=4.7pF/10V New Comment=18pF/10V
+Change Component Comment : Designator=C17 Old Comment=4.7pF/10V New Comment=18pF/10V
+Change Component Comment : Designator=R280 Old Comment=22R New Comment=1M
+Added Component: Designator=Y5(CRYSTAL_NX2012SA)
+Add component (AddParameter): Name = "Category"; Value = "Crystal/Oscillator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "SVN Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://chn-vm-apps.microchip.com/mchprepo/parts/Datasheets/c_NX2012SA-STD-MUB-1_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Local Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Datasheets\c_NX2012SA-STD-MUB-1_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Open Symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\LibraryRefs\Crystal 2 Pins.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "Open Footprint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "C:\ALTIUM_WORK\00001_MCHP-CDB\Library\Footprints\CRYSTAL_NX2012SA.PcbLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "Open Footprint 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "Open Footprint 3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "Open Footprint 4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description_"; Value = "CRYSTAL 32.768kHz 12.5pF SMD NX2012SA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dev Tools Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "NDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "NX2012SA-32.768K-STD-MUB-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MCHP-ID"; Value = "OSC1092"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Owner"; Value = "Jamus Griego"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Populated"; Value = "YES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Override"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "MCL Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "644-1219-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Crystal 2 Pins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Crystal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PA07_XIN32 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=PA08_XOUT32 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=PA07_XIN32 Pin=R280-1
+Added Pin To Net: NetName=PA08_XOUT32 Pin=R280-2
+Added Pin To Net: NetName=PA08_XOUT32 Pin=Y5-1
+Added Pin To Net: NetName=PA07_XIN32 Pin=Y5-2
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Added Member To Class: ClassName=11_MCU Member=Component Y5 Crystal 2 Pins
