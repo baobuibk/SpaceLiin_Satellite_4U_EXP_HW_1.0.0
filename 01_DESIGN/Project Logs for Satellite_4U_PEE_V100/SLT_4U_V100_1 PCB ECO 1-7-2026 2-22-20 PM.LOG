@@ -1,0 +1,29 @@
+Added Component: Designator=U55(QFN65P500X500X100-21N)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TPS74901RGWR/Texas%20Instruments/view-part/1101342/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS74901RGWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VQFN-20 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TPS74901RGWR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TPS74901RGWR/Texas%20Instruments/view-part/1101342/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V_SOL Pin=U55-1
+Added Pin To Net: NetName=5V_PERI Pin=U55-5
+Added Pin To Net: NetName=5V_PERI Pin=U55-6
+Added Pin To Net: NetName=5V_PERI Pin=U55-7
+Added Pin To Net: NetName=5V_PERI Pin=U55-8
+Added Pin To Net: NetName=NetR555_1 Pin=U55-9
+Added Pin To Net: NetName=5V_PERI Pin=U55-10
+Added Pin To Net: NetName=NetR554_1 Pin=U55-11
+Added Pin To Net: NetName=GND Pin=U55-12
+Added Pin To Net: NetName=NetC345_2 Pin=U55-15
+Added Pin To Net: NetName=NetR556_2 Pin=U55-16
+Added Pin To Net: NetName=3V_SOL Pin=U55-18
+Added Pin To Net: NetName=3V_SOL Pin=U55-19
+Added Pin To Net: NetName=3V_SOL Pin=U55-20
+Added Pin To Net: NetName=GND Pin=U55-21
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Added Member To Class: ClassName=06_POWER_4 Member=Component U55 TPS74901RGWR

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=PA18 Pin=J21-9
+Removed Pin From Net: NetName=PA18 Pin=R272-2
+Added Component: Designator=R151(RES_C_0603X30)
+Added Pin To Net: NetName=PA18 Pin=R151-1
+Added Pin To Net: NetName=PHOTO_ADC_EOC Pin=J21-9
+Added Pin To Net: NetName=PHOTO_ADC_EOC Pin=R151-2
+Added Pin To Net: NetName=PHOTO_ADC_EOC Pin=R272-2
+Added Net: Name=PHOTO_ADC_EOC
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Added Member To Class: ClassName=11_MCU Member=Component R151 22R

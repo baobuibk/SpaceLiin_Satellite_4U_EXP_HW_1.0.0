@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=3.3V_MCU Pin=U45-1
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R

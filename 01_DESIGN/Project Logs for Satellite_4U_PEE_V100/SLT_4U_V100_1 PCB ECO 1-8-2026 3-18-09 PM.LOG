@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetR440_2 Pin=R441-2
+Removed Pin From Net: NetName=NetR440_2 Pin=U39-7
+Removed Pin From Net: NetName=OBC_CANL Pin=U41-6
+Removed Pin From Net: NetName=OBC_CANH Pin=U41-7
+Added Pin To Net: NetName=OBC_CANH Pin=R441-2
+Added Pin To Net: NetName=OBC_CANL Pin=R442-1
+Added Pin To Net: NetName=OBC_CANL Pin=U39-6
+Added Pin To Net: NetName=OBC_CANH Pin=U39-7
+Added Pin To Net: NetName=NetR440_2 Pin=U41-7
+Added Pin To Net: NetName=NetR444_2 Pin=R444-2
+Added Pin To Net: NetName=NetR444_2 Pin=U41-6
+Added Net: Name=NetR444_2
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R

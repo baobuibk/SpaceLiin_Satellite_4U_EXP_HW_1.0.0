@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SD2_DATA0 Pin=U21-6
+Removed Pin From Net: NetName=SD2_DATA3 Pin=U22-3
+Removed Pin From Net: NetName=SD2_CMD Pin=U22-6
+Added Pin To Net: NetName=SD2_DATA0 Pin=U21-4
+Added Pin To Net: NetName=SD2_CMD Pin=U22-1
+Added Pin To Net: NetName=SD2_DATA3 Pin=U22-6
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R

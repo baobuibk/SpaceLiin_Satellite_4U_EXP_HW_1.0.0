@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=C183-2
+Removed Pin From Net: NetName=GND Pin=C186-2
+Removed Pin From Net: NetName=OBC_CANH Pin=R445-1
+Removed Pin From Net: NetName=NetR445_2 Pin=R446-2
+Removed Pin From Net: NetName=OBC_CANL Pin=R449-1
+Removed Pin From Net: NetName=OBC_CANH Pin=R450-1
+Removed Pin From Net: NetName=OBC_CANL Pin=R454-1
+Removed Pin From Net: NetName=NetC180_1 Pin=U39-5
+Removed Pin From Net: NetName=NetR445_2 Pin=U40-7
+Removed Member From Class: ClassName=07_CAN Member=C183
+Removed Member From Class: ClassName=07_CAN Member=C186
+Removed Member From Class: ClassName=07_CAN Member=R449
+Removed Member From Class: ClassName=07_CAN Member=R450
+Removed Member From Class: ClassName=07_CAN Member=R451
+Removed Member From Class: ClassName=07_CAN Member=R452
+Removed Member From Class: ClassName=07_CAN Member=R454
+Change Component Comment : Designator=R446 Old Comment=60R New Comment=22R
+Change Component Comment : Designator=R447 Old Comment=60R New Comment=22R
+Added Pin To Net: NetName=NetC180_1 Pin=R445-1
+Added Pin To Net: NetName=NetC180_1 Pin=R446-1
+Added Pin To Net: NetName=NetC180_1 Pin=R447-1
+Added Pin To Net: NetName=NetR445_2 Pin=U39-5
+Added Pin To Net: NetName=OBC_CANL Pin=U40-6
+Added Pin To Net: NetName=OBC_CANH Pin=U40-7
+Added Pin To Net: NetName=OBC_CANL Pin=U41-6
+Added Pin To Net: NetName=OBC_CANH Pin=U41-7
+Change Net Name : Old Net Name=NetC180_1 New Net Name=CAN_REF
+Added Pin To Net: NetName=NetR446_2 Pin=R446-2
+Added Pin To Net: NetName=NetR446_2 Pin=U40-5
+Added Net: Name=NetR446_2
+Added Pin To Net: NetName=NetR447_2 Pin=R447-2
+Added Pin To Net: NetName=NetR447_2 Pin=U41-5
+Added Net: Name=NetR447_2
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R

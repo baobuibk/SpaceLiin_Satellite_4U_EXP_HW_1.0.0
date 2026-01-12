@@ -1,0 +1,15 @@
+Record=TopLevelDocument|FileName=00 - SAMA7G54-Block Diagram.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=01 - Power Supply.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=02 - Power Distribution.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=03 - SAMA7G54-MPU.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=04 - SAMA7G54-PIO.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=05 - SAMA7G54-DDR3.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=06 - NVM Memories.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=07 - ETH0-1000.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=08 - ETH1-100.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=09 - USB.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=10 - Expansion Connectors.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=11 - Wireless - CAN.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=12 - Audio Interfaces.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=13 - User Interface.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=00 - SAMA7G54-Block Diagram.SchDoc|FileName=14 - JLINK Debugger.SchDoc|SheetNumber=15

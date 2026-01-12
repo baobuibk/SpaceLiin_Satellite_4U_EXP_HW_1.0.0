@@ -1,0 +1,40 @@
+Added Component: Designator=C183(CAP_C_1005X60)
+Added Component: Designator=R449(RES_C_1005X40)
+Added Component: Designator=R450(RES_C_1005X40)
+Added Component: Designator=R451(RES_C_1005X40)
+Added Component: Designator=U56(SOIC127P602X173-8N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "865-1286-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/fujitsu-electronics-america-inc/MB85RS2MTAPNF-G-BDERE1/865-1286-1-ND/7916252?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fujitsu Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MB85RS2MTAPNF-G-BDERE1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-8 Fujitsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MB85RS2MTAPNF-G-BDERE1/Fujitsu%20Electronics%20America%2C%20Inc./view-part/2344795/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C183-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C183-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R449-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R450-2
+Added Pin To Net: NetName=3.3V_MCU Pin=R451-2
+Added Pin To Net: NetName=TEC_SPI_MISO Pin=U56-2
+Added Pin To Net: NetName=GND Pin=U56-4
+Added Pin To Net: NetName=TEC_SPI_MOSI Pin=U56-5
+Added Pin To Net: NetName=TEC_SPI_SCK Pin=U56-6
+Added Pin To Net: NetName=3.3V_MCU Pin=U56-8
+Added Pin To Net: NetName=MCU_FRAM_nCS Pin=R41-2
+Added Pin To Net: NetName=MCU_FRAM_nCS Pin=R450-1
+Added Pin To Net: NetName=MCU_FRAM_nCS Pin=U56-1
+Added Net: Name=MCU_FRAM_nCS
+Added Pin To Net: NetName=NetR449_1 Pin=R449-1
+Added Pin To Net: NetName=NetR449_1 Pin=U56-3
+Added Net: Name=NetR449_1
+Added Pin To Net: NetName=NetR451_1 Pin=R451-1
+Added Pin To Net: NetName=NetR451_1 Pin=U56-7
+Added Net: Name=NetR451_1
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component C183 0.1uF/10V
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R449 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R450 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component R451 4.7k
+Added Member To Class: ClassName=13_MRAM_RTC_WDT Member=Component U56 MB85RS2MTAPNF-G-BDERE1
