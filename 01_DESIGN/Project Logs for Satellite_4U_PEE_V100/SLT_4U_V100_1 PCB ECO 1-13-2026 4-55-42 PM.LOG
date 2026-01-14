@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C121_1-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=C121_1-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R205_1-1
+Removed Pin From Net: NetName=MCU_HD4_I2C2_SDA Pin=R205_1-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R206_1-1
+Removed Pin From Net: NetName=MCU_HD4_I2C2_SCL Pin=R206_1-2
+Add Pin To Net: Unknown Pin: Pin U54-13
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R

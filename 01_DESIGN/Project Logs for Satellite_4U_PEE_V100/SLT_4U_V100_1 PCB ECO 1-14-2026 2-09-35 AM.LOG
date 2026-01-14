@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=EXP_12V Pin=J21-1
+Removed Pin From Net: NetName=EXP_12V Pin=J22-1
+Removed Pin From Net: NetName=EXP_12V Pin=J23-1
+Added Pin To Net: NetName=LP_12V Pin=J21-1
+Added Pin To Net: NetName=LP_12V Pin=J22-1
+Added Pin To Net: NetName=LP_12V Pin=J23-1
+Add Pin To Net: Unknown Pin: Pin U54-13
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R

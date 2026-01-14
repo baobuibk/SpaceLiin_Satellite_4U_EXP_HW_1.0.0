@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=MCU_I2C0_SDA Pin=R17-2
+Removed Pin From Net: NetName=MCU_I2C0_SCL Pin=R18-2
+Removed Pin From Net: NetName=SENSOR_I2C1_SDA Pin=R81-1
+Removed Pin From Net: NetName=SENSOR_I2C1_SCL Pin=R86-1
+Removed Pin From Net: NetName=SENSOR_I2C1_SCL Pin=U48-2
+Removed Pin From Net: NetName=SENSOR_I2C1_SDA Pin=U48-4
+Removed Pin From Net: NetName=SENSOR_I2C1_SCL Pin=U49-13
+Removed Pin From Net: NetName=SENSOR_I2C1_SDA Pin=U49-14
+Added Pin To Net: NetName=SENSOR_I2C1_SDA Pin=R17-2
+Added Pin To Net: NetName=SENSOR_I2C1_SCL Pin=R18-2
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=R81-1
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=R86-1
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=U48-2
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=U48-4
+Added Pin To Net: NetName=MCU_I2C0_SCL Pin=U49-13
+Added Pin To Net: NetName=MCU_I2C0_SDA Pin=U49-14
+Add Pin To Net: Unknown Pin: Pin U54-13
+Change Net Name : Old Net Name=MCU_I2C0_SCL New Net Name=MCU_I2C1_SCL
+Change Net Name : Old Net Name=MCU_I2C0_SDA New Net Name=MCU_I2C1_SDA
+Change Net Name : Old Net Name=SENSOR_I2C1_SCL New Net Name=MCU_I2C0_SCL
+Change Net Name : Old Net Name=SENSOR_I2C1_SDA New Net Name=MCU_I2C0_SDA
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 156, 202)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(0, 156, 202)
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R

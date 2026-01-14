@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NTC2- Pin=R172-2
+Removed Pin From Net: NetName=NTC1- Pin=R178-2
+Added Pin To Net: NetName=NTC1- Pin=R172-2
+Added Pin To Net: NetName=NTC2- Pin=R178-2
+Add Pin To Net: Unknown Pin: Pin U54-13
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
