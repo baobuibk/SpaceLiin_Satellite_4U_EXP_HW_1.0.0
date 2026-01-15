@@ -1,0 +1,8 @@
+Removed Member From Class: ClassName=DIFF90 Member=RS422_AB_N
+Removed Member From Class: ClassName=DIFF90 Member=RS422_AB_P
+Removed Member From Class: ClassName=DIFF90 Member=RS422_YZ_N
+Removed Member From Class: ClassName=DIFF90 Member=RS422_YZ_P
+Add Pin To Net: Unknown Pin: Pin U54-13
+Added Member To Class: ClassName=11_MCU Member=Component R18 22R
+Added Member To Class: ClassName=11_MCU Member=Component R25 22R
+Added Member To Class: ClassName=11_MCU Member=Component R26 22R
