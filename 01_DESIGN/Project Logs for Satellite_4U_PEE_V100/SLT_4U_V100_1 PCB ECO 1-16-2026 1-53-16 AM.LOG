@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=_PC4 Pin=R393-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=R393-2
+Removed Pin From Net: NetName=GND Pin=R394-1
+Removed Pin From Net: NetName=_PC4 Pin=R394-2
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R393
+Removed Member From Class: ClassName=08_SAMA7G54-PIO Member=R394
+Change Net Name : Old Net Name=NetR386_2 New Net Name=_PB15
+Change Net Name : Old Net Name=NetR526_2 New Net Name=_PC16
+Change Net Name : Old Net Name=NetR531_2 New Net Name=_PD30
+Change Net Name : Old Net Name=NetR532_2 New Net Name=_PD31
