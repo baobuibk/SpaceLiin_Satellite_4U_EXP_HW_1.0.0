@@ -1,0 +1,31 @@
+Added Component: Designator=U28(SOIC127P602X173-8N_EPAD)
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP24-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Add Pin To Net: Unknown Pin: Pin TP26-0
+Add Pin To Net: Unknown Pin: Pin TP27-0
+Add Pin To Net: Unknown Pin: Pin TP28-0
+Added Pin To Net: NetName=GND Pin=U28-1
+Added Pin To Net: NetName=MCU_SOL_2_IN2 Pin=U28-2
+Added Pin To Net: NetName=MCU_SOL_2_IN1 Pin=U28-3
+Added Pin To Net: NetName=SOL_1_VREF Pin=U28-4
+Added Pin To Net: NetName=3V/5V_Solenoid Pin=U28-5
+Added Pin To Net: NetName=SOL_2_OUT1 Pin=U28-6
+Added Pin To Net: NetName=NetR262_1 Pin=U28-7
+Added Pin To Net: NetName=SOL_2_OUT2 Pin=U28-8
+Added Pin To Net: NetName=GND Pin=U28-9
+Added Member To Class: ClassName=19_SOLEDNOID_1 Member=Component U28 TB67H451AFNG,EL

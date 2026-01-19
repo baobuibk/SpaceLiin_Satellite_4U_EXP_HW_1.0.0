@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IF_MCU_SHUTDOWN Pin=R23-1
+Removed Pin From Net: NetName=POW_ONOFF_LP Pin=R312-1
+Added Pin To Net: NetName=POW_ONOFF_LP Pin=R23-1
+Added Pin To Net: NetName=IF_MCU_SHUTDOWN Pin=R312-1

@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=3.3V_MCU Pin=C40-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=C41-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=C42-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R111-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=R120-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=R121-2
+Removed Pin From Net: NetName=3.3V_MCU Pin=U4-4
+Removed Pin From Net: NetName=3.3V_MCU Pin=U5-7
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=C40-2
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=C41-2
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=C42-2
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R111-1
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R120-2
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=R121-2
+Add Pin To Net: Unknown Pin: Pin TP6-0
+Add Pin To Net: Unknown Pin: Pin TP7-0
+Add Pin To Net: Unknown Pin: Pin TP8-0
+Add Pin To Net: Unknown Pin: Pin TP9-0
+Add Pin To Net: Unknown Pin: Pin TP10-0
+Add Pin To Net: Unknown Pin: Pin TP11-0
+Add Pin To Net: Unknown Pin: Pin TP12-0
+Add Pin To Net: Unknown Pin: Pin TP13-0
+Add Pin To Net: Unknown Pin: Pin TP14-0
+Add Pin To Net: Unknown Pin: Pin TP16-0
+Add Pin To Net: Unknown Pin: Pin TP19-0
+Add Pin To Net: Unknown Pin: Pin TP20-0
+Add Pin To Net: Unknown Pin: Pin TP21-0
+Add Pin To Net: Unknown Pin: Pin TP22-0
+Add Pin To Net: Unknown Pin: Pin TP23-0
+Add Pin To Net: Unknown Pin: Pin TP24-0
+Add Pin To Net: Unknown Pin: Pin TP25-0
+Add Pin To Net: Unknown Pin: Pin TP26-0
+Add Pin To Net: Unknown Pin: Pin TP27-0
+Add Pin To Net: Unknown Pin: Pin TP28-0
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=U4-4
+Added Pin To Net: NetName=3.3V_SAMA7 Pin=U5-7
+Add Pin To Net: Unknown Pin: Pin U28-2

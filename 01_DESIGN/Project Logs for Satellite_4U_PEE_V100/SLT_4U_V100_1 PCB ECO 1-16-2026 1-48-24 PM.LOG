@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=POW_ONOFF_SOM Pin=R16-1
+Removed Pin From Net: NetName=IF_MCU_SHUTDOWN Pin=R18-1
+Removed Pin From Net: NetName=POW_ONOFF_HD4 Pin=R21-1
+Removed Pin From Net: NetName=POW_ONOFF_Solenoid Pin=R23-1
+Added Pin To Net: NetName=POW_ONOFF_Solenoid Pin=R16-1
+Added Pin To Net: NetName=POW_ONOFF_HD4 Pin=R18-1

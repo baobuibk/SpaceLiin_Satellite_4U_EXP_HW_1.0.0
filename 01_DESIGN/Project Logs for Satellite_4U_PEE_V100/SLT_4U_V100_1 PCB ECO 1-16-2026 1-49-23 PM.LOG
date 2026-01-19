@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=POW_ONOFF_SOM Pin=R21-1
+Added Pin To Net: NetName=IF_MCU_SHUTDOWN Pin=R23-1
