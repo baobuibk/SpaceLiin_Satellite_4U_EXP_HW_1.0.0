@@ -1,7 +1,0 @@
-Removed Member From Class: ClassName=08_SAMA7G54-MPU Member=TP3
-Removed Member From Class: ClassName=08_SAMA7G54-MPU Member=TP4
-Change Component Designator: OldDesignator=R18 NewDesignator=R20
-Change Component Designator: OldDesignator=R25 NewDesignator=R22
-Change Component Designator: OldDesignator=R26 NewDesignator=R312
-Add Pin To Net: Unknown Pin: Pin U54-13
-Added Member To Class: ClassName=11_MCU Member=Component R312 22R

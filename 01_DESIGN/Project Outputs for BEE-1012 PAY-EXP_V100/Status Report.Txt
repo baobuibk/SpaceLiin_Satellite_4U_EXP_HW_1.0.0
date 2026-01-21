@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BEE-1012 PAY-EXP_V100.PrjPcb]
+   Generated File[BEE_1012 PAY-EXP V100_Legend_Top.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Paste_Top.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Soldermask_Top.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Copper_Signal_Top.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Copper_Signal_1.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Copper_Signal_2.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Copper_Signal_3.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Copper_Signal_4.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Copper_Signal_Bot.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Soldermask_Bot.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Paste_Bot.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Legend_Bot.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Pads_Top.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Pads_Bot.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Drawing_1.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Drillmap_1.gbr]
+   Generated File[BEE_1012 PAY-EXP V100_Profile.gbr]
+   Generated File[BEE_1012 PAY-EXP V100.EXTREP]
+   Generated File[BEE_1012 PAY-EXP V100.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 12:03:13 AM On 1/22/2026

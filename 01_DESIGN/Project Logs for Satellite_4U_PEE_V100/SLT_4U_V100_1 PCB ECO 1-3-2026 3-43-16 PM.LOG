@@ -1,8 +1,0 @@
-Change Component Footprint: Designator=C276 Old Footprint=CAP_C_0201 New Footprint=CAP_C_0603x30
-Change Component Footprint: Designator=C280 Old Footprint=CAP_C_0201 New Footprint=CAP_C_0603x30
-Change Component Footprint: Designator=C16 Old Footprint=CAP_C_1005X60 New Footprint=CAP_C_0603x30
-Change Component Footprint: Designator=C17 Old Footprint=CAP_C_1005X60 New Footprint=CAP_C_0603x30
-Change Footprint: Footprint Not Found res_c_0201
-Added Member To Class: ClassName=11_MCU Member=Component R18 22R
-Added Member To Class: ClassName=11_MCU Member=Component R25 22R
-Added Member To Class: ClassName=11_MCU Member=Component R26 22R

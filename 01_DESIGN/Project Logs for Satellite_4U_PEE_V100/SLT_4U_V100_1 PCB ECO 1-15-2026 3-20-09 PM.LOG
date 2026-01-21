@@ -1,6 +1,0 @@
-Change Footprint: Cannot match pads with new footprint in component :J3 Footprint:SAMTEC_TSM-108-01-L-SV-P-TR
-Change Footprint: Cannot match pads with new footprint in component :J25 Footprint:SAMTEC_TSM-108-01-L-SV-P-TR
-Add Pin To Net: Unknown Pin: Pin U54-13
-Added Member To Class: ClassName=11_MCU Member=Component R18 22R
-Added Member To Class: ClassName=11_MCU Member=Component R25 22R
-Added Member To Class: ClassName=11_MCU Member=Component R26 22R

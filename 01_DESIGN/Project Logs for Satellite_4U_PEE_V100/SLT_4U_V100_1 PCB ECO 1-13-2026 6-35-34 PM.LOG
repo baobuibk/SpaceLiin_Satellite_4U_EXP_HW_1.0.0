@@ -1,6 +1,0 @@
-Change Component Designator: OldDesignator=U26 NewDesignator=U28
-Change Component Designator: OldDesignator=U28 NewDesignator=U26
-Add Pin To Net: Unknown Pin: Pin U54-13
-Added Member To Class: ClassName=11_MCU Member=Component R18 22R
-Added Member To Class: ClassName=11_MCU Member=Component R25 22R
-Added Member To Class: ClassName=11_MCU Member=Component R26 22R

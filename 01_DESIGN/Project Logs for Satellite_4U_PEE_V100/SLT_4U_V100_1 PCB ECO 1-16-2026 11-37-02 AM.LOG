@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=SOM_USB_LED_2 Pin=R389-1
-Removed Pin From Net: NetName=SOM_USB_LED_1 Pin=R530-1
-Added Pin To Net: NetName=SOM_USB_LED_1 Pin=R389-1
-Added Pin To Net: NetName=SOM_USB_LED_2 Pin=R530-1
