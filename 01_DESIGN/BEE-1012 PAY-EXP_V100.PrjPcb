@@ -730,6 +730,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OYFVQPJW
 
 [Document41]
+DocumentPath=..\05_SMT\BEE-1012 PAY-EXP V100.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UAIBTCHR
+
+[Document42]
 DocumentPath=Project Outputs for BEE-1012 PAY-EXP_V100\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -746,7 +763,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=Project Outputs for BEE-1012 PAY-EXP_V100\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -762,23 +779,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document43]
-DocumentPath=..\05_SMT\BEE-1012 PAY-EXP V100.PCBDwf
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UAIBTCHR
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BEE-1012 PAY-EXP_V100\BEE_1012 PAY-EXP V100.DRR
